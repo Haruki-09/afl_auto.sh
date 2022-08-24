@@ -28,10 +28,6 @@ do
 	echo -e "\n afl-fuzz run"
 	timeout ${seconds} afl-fuzz -i ${in} -o ${out}/${commit} -f input.c /home/kosuge/ctags-link/ctags input.c 
 	
-	if [ -z "$(ls ${out}/${commit}/crashes/)" ]; then
-		echo -e "${commit} is not error\n"
-		break
-	fi
 
 done < ${commits}
 
