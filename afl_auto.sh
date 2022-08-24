@@ -2,7 +2,8 @@
 
 export CC=/usr/local/bin/afl-gcc
 
-commits=/home/kosuge/afl-auto/commit_id/log5.txt
+read -p "Please object file name: " inputfile
+commits="/home/kosuge/afl-auto/commit_id/${inputfile}"
 in=/home/kosuge/afl-auto/In/
 out=/home/kosuge/afl-auto/Out/
 seconds=30
@@ -28,7 +29,7 @@ do
 	echo -e "\n afl-fuzz run"
 	timeout ${seconds} afl-fuzz -i ${in} -o ${out}/${commit} -f input.c /home/kosuge/ctags-link/ctags input.c 
 	
-
+	
 done < ${commits}
 
 echo -e "all finished! \n"
