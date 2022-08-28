@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(vtid) {
+
+	printf("H World\n");
+
+	return 0;
+}(vtid) {
+
+	printf("
