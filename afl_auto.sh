@@ -10,6 +10,7 @@ trap ctrl_c SIGINT
 
 export CC=/usr/local/bin/afl-gcc
 
+echo -e "\n ls commit_id \n"
 ls /home/kosuge/afl-auto/commit_id/
 read -p "commit id filename: " inputfile
 commits=/home/kosuge/afl-auto/commit_id/${inputfile}
