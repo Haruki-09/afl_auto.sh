@@ -19,9 +19,9 @@ out=/home/kosuge/afl-auto/Out/
 make_error=/home/kosuge/afl-auto/make_error.log
 seconds=30
 
-echo -e "\n checkout afl official commit"
+echo -e "\n checkout orgin/master"
 cd /home/kosuge/ctags-link
-git checkout afl_official_commit
+git checkout origin/master
 
 while read commit
 do	
