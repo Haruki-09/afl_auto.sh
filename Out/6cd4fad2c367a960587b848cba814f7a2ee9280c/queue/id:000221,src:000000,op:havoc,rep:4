@@ -1,0 +1,10 @@
+#iain(void) {
+
+ 	prinnclude <stdio.h>
+
+int main(void) {
+
+ 	printf("H sorld\n");
+
+	return 0;
+è

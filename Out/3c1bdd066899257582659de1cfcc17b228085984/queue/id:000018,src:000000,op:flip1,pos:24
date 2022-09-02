@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int }ain(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

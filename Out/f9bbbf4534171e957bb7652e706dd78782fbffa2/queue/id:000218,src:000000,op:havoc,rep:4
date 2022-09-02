@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+i
+	printf"""""""""""("@ World\n");
+
+	reuurn 0;
+}

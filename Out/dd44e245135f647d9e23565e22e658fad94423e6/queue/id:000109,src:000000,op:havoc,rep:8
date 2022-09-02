@@ -1,0 +1,31 @@
+,includ
+
+
+
+
+
+
+
+
+
+
+
+n(void) {
+
+	printf("
+
+
+
+
+
+
+e<st¬io.h>
+
+)nt maimain(void) {
+
+	printf("n(void) {
+
+	printf("H World\n");
+
+	èturn 0;
+}

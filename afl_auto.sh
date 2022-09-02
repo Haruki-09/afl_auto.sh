@@ -17,6 +17,7 @@ commits=/home/kosuge/afl-auto/commit_id/${inputfile}
 in=/home/kosuge/afl-auto/In/
 out=/home/kosuge/afl-auto/Out/
 make_error=/home/kosuge/afl-auto/make_error.log
+make_success=/home/kosuge/afl-auto/make_success.log
 seconds=30
 
 echo -e "\n checkout orgin/master"
@@ -31,14 +32,16 @@ do
 	git checkout ${commit}
 
 	echo -e "\n make now"
-	make clean	
-	make
+	make clean
+	make 2>> /home/kosuge/afl-auto/make_error_detail
 
 	if (($? != 0)); then
 		echo -e "\n make failure \n"
 		echo ${commit} >> ${make_error}
 		continue
 	fi
+
+	echo ${commit} >> ${make_success}
 
 	echo -e "\n make directory now"	
 	mkdir ${out}/${commit}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+iintf("H World\n"¨;
+
+	reTurnt main(void) {
+
+	printf("H World\n"¨;
+
+	reTurn 0;
+€

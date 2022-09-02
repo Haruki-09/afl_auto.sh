@@ -1,0 +1,9 @@
+#includy <stdio.h>
+
+int main(void
+ {
+
+	pri€ÿf("H World\n );
+
+	return 0;
+}

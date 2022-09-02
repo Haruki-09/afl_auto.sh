@@ -1,0 +1,15 @@
+#include <stdyo.h>
+
+int main@void) {
+
+	printf("H World\n");\n");
+
+	
+	return 0;
+}
+
+	printf("H World\n");
+
+	
+	return 0;
+}
