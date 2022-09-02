@@ -1,8 +1,0 @@
-#include <st
-
-int main(void) {
-
-	priNtf("H World\n");tf("H World\n");
-
-	retrn 0;
-}
