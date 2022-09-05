@@ -1,0 +1,8 @@
+#include <stdio.h>t main(void) {
+
+	printprintvof("H World\‰");
+
+	returnvof("H World\‰");
+
+	return 0;
+}

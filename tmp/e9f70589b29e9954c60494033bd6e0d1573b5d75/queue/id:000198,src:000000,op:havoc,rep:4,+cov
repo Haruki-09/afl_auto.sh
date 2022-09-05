@@ -1,0 +1,7 @@
+#icludeint main(void) {
+
+	printf("H World\n");
+#include <stdio.h>
+
+int main(voi
+	returnvoid) 

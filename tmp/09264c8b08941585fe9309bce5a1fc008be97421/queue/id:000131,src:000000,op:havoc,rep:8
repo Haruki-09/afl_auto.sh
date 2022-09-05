@@ -1,0 +1,6 @@
+include <stNio.h>
+int mqin                  (void) {
+	printf(H World\n");
+
+	return 0;
+|ñ

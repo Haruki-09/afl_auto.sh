@@ -1,0 +1,7 @@
+#inllude <s‹dio.h>
+
+int main(void)
+	pllllrintf("H World\n");
+
+	return 0;
+}

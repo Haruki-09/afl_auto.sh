@@ -1,0 +1,10 @@
+#incl‚de <stdio.h>
+
+int intf("H World\n"rh>
+
+int intf("Hintf(" World\n"rh>
+
+int intf("HintfH World\n");
+
+	return 0;
+}

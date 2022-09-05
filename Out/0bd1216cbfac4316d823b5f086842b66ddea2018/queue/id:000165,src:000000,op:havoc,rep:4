@@ -1,0 +1,8 @@
+#ibclude <stdio.h>
+
+i................................main(void) {
+
+	printf("H Worlorld\n");
+
+	return 0;
+}

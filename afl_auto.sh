@@ -10,30 +10,38 @@ trap ctrl_c SIGINT
 
 export CC=/usr/local/bin/afl-gcc
 
-echo -e "\n ls commit_id \n"
-ls /home/kosuge/afl-auto/commit_id/
-read -p "commit id filename: " inputfile
-commits=/home/kosuge/afl-auto/commit_id/${inputfile}
-in=/home/kosuge/afl-auto/In/
-out=/home/kosuge/afl-auto/Out/
-make_error=/home/kosuge/afl-auto/make_error.log
-make_success=/home/kosuge/afl-auto/make_success.log
-seconds=30
+time=`date +"%Y_%m_%d_%H:%M"`
+afl_auto_dir=/home/kosuge/afl-auto
+result_dir=${afl_auto_dir}/result/${time}
 
-echo -e "\n checkout orgin/master"
+mkdir -p ${result_dir}/Out
+out=${result_dir}/Out
+in=${afl_auto_dir}/In
+
+echo -e "\n Please select commit id file \n" ; ls ${afl_auto_dir}/commit_id
+read -p "commit id filename: " inputfile && commits=${afl_auto_dir}/commit_id/${inputfile}
+
+read -p "Seconds: " sec && seconds=${sec}
+
+touch ${result_dir}/make_error.log && make_error=${result_dir}/make_error.log
+touch ${result_dir}/make_error.detail && make_error_detail=${result_dir}/make_error.detail
+touch ${result_dir}/make_success.log && make_success=${result_dir}/make_success.log
+
+#echo -e "\n checkout orgin/master"
 cd /home/kosuge/ctags-link
-git checkout origin/master
+#git checkout -f origin/master
 
 while read commit
 do	
 	echo -e "\n commit ID: ${commit}"
 	
 	echo -e "\n checkout now"
-	git checkout ${commit}
+	git checkout -f ${commit}
 
 	echo -e "\n make now"
 	make clean
-	make 2>> /home/kosuge/afl-auto/make_error_detail
+	echo ${commit} >> ${make_error_detail}
+	make 2>> ${make_error_detail}
 
 	if (($? != 0)); then
 		echo -e "\n make failure \n"

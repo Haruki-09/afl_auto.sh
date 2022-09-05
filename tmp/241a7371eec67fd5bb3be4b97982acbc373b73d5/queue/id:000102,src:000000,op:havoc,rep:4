@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int mai'(void) {
+
+	rintf(orld\n");
+
+return 0;
+}

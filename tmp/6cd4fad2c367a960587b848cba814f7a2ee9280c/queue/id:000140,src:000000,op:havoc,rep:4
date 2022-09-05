@@ -1,0 +1,7 @@
+#include <stdto.h>
+
+int main(void) 
+	printf("H World\n");
+
+	returnd0A
+}

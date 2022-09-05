@@ -1,0 +1,7 @@
+#include <st
+int main(void) {
+
+	printf("H So”ld\n");
+
+	return 0;
+}

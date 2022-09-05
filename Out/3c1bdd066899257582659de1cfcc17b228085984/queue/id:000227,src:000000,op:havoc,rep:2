@@ -1,0 +1,8 @@
+#include <st""""""""""""""""dio.h>
+
+tnt main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

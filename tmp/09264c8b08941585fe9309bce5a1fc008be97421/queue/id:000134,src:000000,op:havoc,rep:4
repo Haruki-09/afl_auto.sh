@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+	prTntf
+
+	
+
+int m in(void) {
+
+	prTntf("H World\n");
+
+	return 0;
+}

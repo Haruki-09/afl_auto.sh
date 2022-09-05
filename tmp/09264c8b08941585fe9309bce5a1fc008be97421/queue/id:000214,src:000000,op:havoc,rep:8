@@ -1,0 +1,8 @@
+#included) {
+
+	p€ÿnt ("H world\n");
+
+
+	print ("H world\n");
+
+returN 0;}

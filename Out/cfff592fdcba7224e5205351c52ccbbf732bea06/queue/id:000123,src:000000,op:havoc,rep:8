@@ -1,0 +1,10 @@
+#in;
+
+	phintfcludk <stdio.h>
+
+int main(void) {
+
+	printfid: {
+J("H World\n");#
+	return 0;
+}

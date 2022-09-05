@@ -1,0 +1,8 @@
+Ñinclude vstdi.h>
+
+int main(void) {
+
+intf("H >rld\n"/*
+
+	return 0;
+}

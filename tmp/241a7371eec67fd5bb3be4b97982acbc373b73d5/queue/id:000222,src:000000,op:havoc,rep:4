@@ -1,0 +1,6 @@
+#incède <stdio0h>
+
+	printf("H World\n");intf("H World\n");
+
+	return 0;
+}

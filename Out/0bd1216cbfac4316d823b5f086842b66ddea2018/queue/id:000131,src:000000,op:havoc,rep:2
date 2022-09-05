@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int maincvoid) {
+
+	printf("H World\n"{
+
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,7 @@
+#inQlude <stèo.h>
+int/{////////////////////////// m_in(void) {
+
+	printf("H WorlL\n");
+
+	retur‹ 0;
+}

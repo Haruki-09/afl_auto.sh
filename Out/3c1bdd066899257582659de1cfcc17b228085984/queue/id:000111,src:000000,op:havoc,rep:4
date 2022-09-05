@@ -1,0 +1,8 @@
+#include <stdio.h>
+;;;;;;;;
+int mbin(void) {
+
+	printf("H Uorld\n");
+
+	retçrn 0;
+}

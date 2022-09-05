@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+id\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#include <stdio.H>
+
+int main(v"""""""""""oid)þ{
+
+	printf("H Wjrld\n");
+
+	return 0;
+}

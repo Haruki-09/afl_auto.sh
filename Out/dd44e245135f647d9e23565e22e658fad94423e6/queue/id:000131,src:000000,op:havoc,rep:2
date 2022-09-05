@@ -1,0 +1,8 @@
+#include <st("id) {
+
+	printf("H World\n");
+
+	r"H World\n");
+
+	return 0;
+}

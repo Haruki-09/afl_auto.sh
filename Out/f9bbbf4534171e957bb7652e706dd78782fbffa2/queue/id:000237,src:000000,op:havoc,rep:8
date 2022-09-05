@@ -1,0 +1,7 @@
+#inclu{e stfio.h>
+
+i       @    ) {
+J	printf("H Wor~d\n");
+
+	return 0;
+}

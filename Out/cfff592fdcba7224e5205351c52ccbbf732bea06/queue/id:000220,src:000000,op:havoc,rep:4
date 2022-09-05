@@ -1,0 +1,12 @@
+#€ÿclude <stdio.h>
+
+in‰ maino.h>
+
+in‰ main(void) {
+
+	printf((void)({
+
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#includetdiŽ.h>
+
+int mai{(void) {
+
+	printf("\\World\n");
+
+	return 0;
+}

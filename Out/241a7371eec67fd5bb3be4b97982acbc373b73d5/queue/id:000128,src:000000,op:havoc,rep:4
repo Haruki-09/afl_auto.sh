@@ -1,0 +1,6 @@
+#incl(void4 {
+
+	printf("H WorlX\n"+;
+
+	return 0;
+}

@@ -1,0 +1,10 @@
+#include <s
+
+	reh>
+
+int mainvoid) {
+
+	printf("H World\n");
+
+	return 0;
+}

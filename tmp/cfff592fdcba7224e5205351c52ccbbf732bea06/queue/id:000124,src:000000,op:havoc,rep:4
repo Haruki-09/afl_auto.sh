@@ -1,0 +1,11 @@
+#inclu
+intmain(goid) {
+
+	printf("H World\n");
+
+	rtf("H World\n");
+
+	return 0;
+}
+eturn 0;
+}
