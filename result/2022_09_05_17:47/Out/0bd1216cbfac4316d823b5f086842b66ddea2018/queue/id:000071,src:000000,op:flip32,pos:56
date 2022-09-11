@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void) {
+
+	printf("Hld\nÝÖÄõ
+	return 0;
+}

@@ -1,0 +1,9 @@
+#
+	return 0;
+
+int main(void) {
+
+	printf("H World^n");
+
+	return 0;
+}

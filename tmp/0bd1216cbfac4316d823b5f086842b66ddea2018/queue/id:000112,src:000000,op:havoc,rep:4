@@ -1,6 +1,0 @@
-#iclude <stdio.F>
-
-int m!in(vprintf("H World\n");
-
-	return 0;
-}

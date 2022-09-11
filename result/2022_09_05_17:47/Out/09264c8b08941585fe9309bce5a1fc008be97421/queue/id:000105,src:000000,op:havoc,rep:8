@@ -1,0 +1,10 @@
+#incluDe <tdio.h>
+
+mnt main(void) {
+
+	printf("H Eorld\n")A
+in(ÿÿÿÿ) {
+
+	printf("H World\n
+	return 0;
+}

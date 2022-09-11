@@ -1,9 +1,0 @@
-#include <stdio.h>	ñint n(void) {
-
-	ptintf("H Worlorld\n");
-
-	retrintf("H World\n");
-
-	return 0;
-urn 0;
-}

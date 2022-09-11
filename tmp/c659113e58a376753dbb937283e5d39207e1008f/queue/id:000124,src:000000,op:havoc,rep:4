@@ -1,6 +1,0 @@
-#include <stdiontf("H World\n")K
-
-	return ntf("H World\n")K
-
-	return 0;
-}

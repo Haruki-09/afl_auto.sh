@@ -1,0 +1,7 @@
+(
+
+int Oain(void) {
+
+	printf("H World\n");
+	r~t‹rn 0;
+}

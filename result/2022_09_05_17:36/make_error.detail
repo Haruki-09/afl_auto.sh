@@ -1,0 +1,267 @@
+3c1bdd066899257582659de1cfcc17b228085984
+0bd1216cbfac4316d823b5f086842b66ddea2018
+849ffff1711e57207beca6b6eac91d9ea9589a12
+ctags.c: In function 'main':
+ctags.c:80:6: error: implicit declaration of function 'tame' [-Werror=implicit-function-declaration]
+  if (tame("stdio rpath wpath cpath", NULL) == -1)
+      ^~~~
+cc1: some warnings being treated as errors
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'ctags.o')
+09264c8b08941585fe9309bce5a1fc008be97421
+dd44e245135f647d9e23565e22e658fad94423e6
+cfff592fdcba7224e5205351c52ccbbf732bea06
+e9f70589b29e9954c60494033bd6e0d1573b5d75
+241a7371eec67fd5bb3be4b97982acbc373b73d5
+c659113e58a376753dbb937283e5d39207e1008f
+6cd4fad2c367a960587b848cba814f7a2ee9280c
+f9bbbf4534171e957bb7652e706dd78782fbffa2
+182a925ed7caa889e7b05ff0554512d13a56460b
+In file included from C.c:37:
+ctags.h:79:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:34:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+043fbe51c197dbbcd422e917b65f765d8b5f8874
+In file included from C.c:37:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:34:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+32ad5f6d59c45bbb75dda8d246e038ecf75771a8
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+a1ffd3ecd5088746c4ee6c66ea36755d5c6df46f
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+ceff83ee8b086868a999a101973f5486f41aa41f
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+e837b4435bddfc78342e5f88f60be5e9a38fd317
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+774cb253541cae2bdb7ea97dff8871d36ab9a757
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+3921aef3fccebc771e799f0236b10cf6249a81fe
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+1837a5ca509d93cac77d2e89322c0c4869f9215d
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+f75387cb26411cf98c236a69221f49108293e7a9
+In file included from C.c:45:
+ctags.h:80:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:42:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+169c6d38a2c61e599b6fc0ec93b49d37f7e45a5c
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+fa25914d87386cd8889173a1d0b862c8303713bb
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+7ddc952f60bd069a82c4a082a01c1791b34f3974
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+c72b5b24e14c03dd8b22104fbae0d3921fa2aa37
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+4e89419ad73a838a67e99aae7ddb18337b0b3f75
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+3491c18f582c344fa588d7e7d54a784df920d566
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+9f51df2d8483a97e6f39391a3311fa2d4b8cf70e
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+b6160d82ff715d56a471d4de476c327900b84163
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+6a7c2d872079461bca3288988d0bf9264b4e4082
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+0830ca0d85f230058ed8cce1b8976fb35a86e278
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+87f6f94741d1d7f28fe5b369322d9c9e6c49c674
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+704b0f800f25b797958b7bf47cf30e1b9b1548c2
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+72799b18e5d7fe7a63e4137ee58a606d3817781d
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+1258a77d10860d0a1d2b89bfaa6653ced2930912
+In file included from C.c:49:
+ctags.h:84:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:46:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')
+df930be708d50e9715f173caa26ffe1b7599b157
+In file included from C.c:48:
+ctags.h:83:13: error: conflicting types for 'getline'
+ extern void getline __P((void));
+             ^~~~~~~
+In file included from C.c:45:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')

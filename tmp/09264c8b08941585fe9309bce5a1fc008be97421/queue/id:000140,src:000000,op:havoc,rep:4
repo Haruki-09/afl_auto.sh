@@ -1,6 +1,0 @@
-#i clude <stdio. maint main(vXid) {
-
-	printf("H\n");
-
-	return 0;
-}

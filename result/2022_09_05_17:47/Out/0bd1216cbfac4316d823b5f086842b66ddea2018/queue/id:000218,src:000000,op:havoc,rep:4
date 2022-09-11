@@ -1,0 +1,7 @@
+#include <stdio.h>dso.h>
+
+in(voqd
+	pri	printf("H World\n");
+
+	return 0;
+}

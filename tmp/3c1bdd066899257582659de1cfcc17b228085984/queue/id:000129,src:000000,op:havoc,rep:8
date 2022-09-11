@@ -1,7 +1,0 @@
-#inVlude <stdio.h>
-(3H World\n"id) {
-
-	printf(4H Woråd\n");
-
-	ret`rn 0;
-}

@@ -1,0 +1,10 @@
+#include <std	o.h>
+
+int main(void) {
+
+	printf("H World\n");
+d) {
+
+	printf("H WorldAn");
+
+	return 0;}

@@ -1,0 +1,9 @@
+#inclue <stdio.h>
+
+int mai‡(void) zþclude <stdio.h>
+
+in
+	printf("H World\n");
+
+	return 0;
+}

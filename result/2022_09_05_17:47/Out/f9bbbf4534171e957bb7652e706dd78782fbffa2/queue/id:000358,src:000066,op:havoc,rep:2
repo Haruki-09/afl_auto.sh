@@ -1,0 +1,10 @@
+#incude <stdio.h>
+
+int main(void)/lude <stdio.h>
+
+int main(void)/{
+
+	printf("H Worlo.n");
+
+	return 0;
+}

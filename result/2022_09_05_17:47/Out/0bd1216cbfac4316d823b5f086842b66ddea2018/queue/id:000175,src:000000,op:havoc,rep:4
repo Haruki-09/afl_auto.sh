@@ -1,0 +1,8 @@
+#ntflude <stdi
+int main(void) oid) {
+{
+
+	printw("H World\n");
+
+	return 0;
+}

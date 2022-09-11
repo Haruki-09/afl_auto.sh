@@ -1,0 +1,10 @@
+#inclƒde <s4dio.h>
+
+int main(void) {
+
+	pf("H World\n");
+
+	rerintf("H World\n")//;
+
+	return 0;
+}

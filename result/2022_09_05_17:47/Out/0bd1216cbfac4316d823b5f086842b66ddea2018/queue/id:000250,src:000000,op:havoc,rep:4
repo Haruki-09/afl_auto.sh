@@ -1,0 +1,5 @@
+#include <stdio.h>
+d)({
+
+	printf("H World\n")	ï	return 0;
+}

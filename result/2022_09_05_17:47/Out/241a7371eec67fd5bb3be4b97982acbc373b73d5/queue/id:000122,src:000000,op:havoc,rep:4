@@ -1,0 +1,8 @@
+#include <stdi`.h>
+
+nt main(v„(void) {
+
+	printf("H Wo\n");
+
+	return 0;
+}

@@ -1,0 +1,3 @@
+#include intf("H World\n""""""""")=
+&	return 0;
+}

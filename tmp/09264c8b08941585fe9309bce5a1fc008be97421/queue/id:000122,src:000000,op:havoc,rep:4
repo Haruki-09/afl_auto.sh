@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-itx("H World\n");
-	return 0;nt main void) {
-
-	printf("H World\n");
-
-	return 0;
-}

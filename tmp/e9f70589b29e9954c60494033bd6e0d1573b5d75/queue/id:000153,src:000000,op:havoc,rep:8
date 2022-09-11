@@ -1,8 +1,0 @@
-#includ7 <stdio.h>
-
-int mDin(void) {
-     y    
-	printf("H Woçlç\n");
-
-	deturn 0;
-}

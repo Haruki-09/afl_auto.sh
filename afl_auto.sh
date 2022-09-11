@@ -26,6 +26,7 @@ read -p "Seconds: " sec && seconds=${sec}
 touch ${result_dir}/make_error.log && make_error=${result_dir}/make_error.log
 touch ${result_dir}/make_error.detail && make_error_detail=${result_dir}/make_error.detail
 touch ${result_dir}/make_success.log && make_success=${result_dir}/make_success.log
+touch ${result_dir}/crashes_count.log && afl_crashes=${result_dir}/crashes_count.log
 
 #echo -e "\n checkout orgin/master"
 cd /home/kosuge/ctags-link
@@ -55,7 +56,12 @@ do
 	mkdir ${out}/${commit}
 	
 	echo -e "\n afl-fuzz run"
-	timeout ${seconds} afl-fuzz -i ${in} -o ${out}/${commit} -f input.c /home/kosuge/ctags-link/ctags input.c 
+	timeout ${seconds} afl-fuzz -i ${in} -o ${out}/${commit} -f input.c /home/kosuge/ctags-link/ctags input.c
+	
+	echo -e "\n crashes counting"
+	crashes_count=`ls ${out}/${commit} | wc -l`
+	echo "${commit}:${crashes_count}" >> ${afl_crashes}
+       	
 	
 done < ${commits}
 

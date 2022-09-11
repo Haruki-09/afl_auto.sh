@@ -1,0 +1,8 @@
+#inclzde stdio.h>
+
+it main(v)/{
+
+	printf("H WZrld\n");
+
+	return °;
+}

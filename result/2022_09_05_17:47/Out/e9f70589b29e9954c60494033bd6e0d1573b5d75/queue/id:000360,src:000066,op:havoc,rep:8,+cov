@@ -1,0 +1,8 @@
+#include <stii.h>
+
+Rnt main(voidnt main(void)ntf("H)tf("H World@n");/{
+
+	printf("H World@n");
+
+	return 0;
+U

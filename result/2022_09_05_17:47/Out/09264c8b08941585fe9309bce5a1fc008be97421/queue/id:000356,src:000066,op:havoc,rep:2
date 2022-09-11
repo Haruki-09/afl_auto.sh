@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void)/in(void)/{
+
+	printf("H ûo{
+
+	printf("H ûorld\n");
+
+	return 0;
+}

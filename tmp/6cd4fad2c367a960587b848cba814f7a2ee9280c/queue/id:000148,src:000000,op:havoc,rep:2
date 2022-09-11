@@ -1,6 +1,0 @@
-#include 8stdio.h>
-
-int main(void)intf("H World\n");
-
-	return 0;
-}

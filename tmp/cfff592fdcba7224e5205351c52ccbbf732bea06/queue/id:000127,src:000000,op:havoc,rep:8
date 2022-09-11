@@ -1,8 +1,0 @@
-d) {
-
-	prin~f(ain(vo~d) {
-
-	prin~f("H(World\n");
-
-	return 0;
-}
