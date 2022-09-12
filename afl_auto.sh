@@ -67,7 +67,7 @@ do
 	echo -e "\n crashes counting"
 	crashes_count=`ls ${out}/${commit_id}/crashes | wc -l`
 	#echo "${commit_id}:${crashes_count},${commit_date}" >> ${afl_crashes}
-	echo "${commit_id}:${commit_date}:${crashes_count}" >> ${afl_crashes}
+	echo "${commit_id}/${commit_date}/${crashes_count}" >> ${afl_crashes}
        	
 	
 done < ${commits}
