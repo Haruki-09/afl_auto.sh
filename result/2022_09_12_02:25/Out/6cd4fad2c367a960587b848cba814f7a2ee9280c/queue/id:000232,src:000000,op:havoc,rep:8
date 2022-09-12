@@ -1,0 +1,9 @@
+#include <stdio.h>
+{{{{{{{{{{{{{
+int main(void) {
+
+	print({{{{{{{{
+int main(void) {
+
+	print("/ World\n");	return 0;
+}

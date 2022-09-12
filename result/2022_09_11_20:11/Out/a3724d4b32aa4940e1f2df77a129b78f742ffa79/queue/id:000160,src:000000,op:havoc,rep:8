@@ -1,0 +1,22 @@
+@include <stdik.h3
+
+int 
+
+
+
+
+
+
+
+
+
+
+
+
+
+	printf("H Worlh>
+
+);
+
+	reurn 0;
+}

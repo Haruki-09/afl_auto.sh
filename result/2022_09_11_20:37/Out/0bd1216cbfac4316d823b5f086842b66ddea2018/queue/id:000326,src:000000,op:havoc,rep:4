@@ -1,0 +1,7 @@
+#inc‚ude <stdio.h=ô
+in\\\\\\\\\\\\\\\\\\\\\\\\\\\\t main(void){
+
+	printf("H World\n");
+
+	return 0;
+}

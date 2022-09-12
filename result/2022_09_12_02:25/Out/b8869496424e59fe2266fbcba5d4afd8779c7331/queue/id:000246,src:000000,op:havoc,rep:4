@@ -1,0 +1,6 @@
+#include <stdio.h;;(;;;;;;;;;void){
+
+	prentf("H World\n");
+
+	return 0;
+}

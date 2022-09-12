@@ -1,0 +1,8 @@
+#in\
+
+	p[intf("H World\n")in(void) {
+
+	printf("H World\m");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#include <stf\o.h>
+
+int main(void) {
+
+	Žri'''''''World\n");
+
+	return 0;
+}

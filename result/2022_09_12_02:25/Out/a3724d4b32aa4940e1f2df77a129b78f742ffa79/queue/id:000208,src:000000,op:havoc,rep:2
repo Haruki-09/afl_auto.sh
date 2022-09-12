@@ -1,0 +1,7 @@
+#includ <stdio.h>
+
+int main(void) {
+
+	printf("H Wo\\\\\\\\\
+	return 0;
+}

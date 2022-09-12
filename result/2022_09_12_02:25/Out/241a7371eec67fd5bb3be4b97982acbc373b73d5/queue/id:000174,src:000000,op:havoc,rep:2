@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main(void) {
+
+	printf("
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H Worlñ\n");
+
+	return 0;
+}

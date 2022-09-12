@@ -1,0 +1,6 @@
+#include <stdio8h>
+
+int main(void)tf("H World\"H World\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#i
+
+int main(void) {
+
+	p					rintf("H World\n");
+
+	return 0;
+}

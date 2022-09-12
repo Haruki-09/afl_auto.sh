@@ -1,0 +1,16 @@
+#incl
+
+
+
+
+
+
+
+ude <s dio.h>
+
+int main(void) {
+
+	printf("H rld");
+
+	return 0;
+}

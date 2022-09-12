@@ -1,0 +1,10 @@
+#include <st<stdio.h>
+
+inn maindio.h>
+
+int main(void)                               {
+
+	“rintf("H World\n");
+
+	return 0;
+}

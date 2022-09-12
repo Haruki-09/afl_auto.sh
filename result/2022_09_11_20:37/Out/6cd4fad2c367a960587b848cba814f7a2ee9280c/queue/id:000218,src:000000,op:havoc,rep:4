@@ -1,0 +1,6 @@
+#includÿÿ(void) {
+
+	printf("H World\n")˜rintf("H WorlX\n");
+
+	return 0;
+}

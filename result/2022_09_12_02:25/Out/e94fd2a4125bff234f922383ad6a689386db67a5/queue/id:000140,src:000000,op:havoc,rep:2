@@ -1,0 +1,4 @@
+#include <stdio.h''''''''''''''''''''''printf#"H World\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#inclcde <stdio.h;;;;;;;;;;;;;;;;;;;;;;;;;;>
+
+int mVin(void) {
+
+	printf("H World\n");
+
+	reYurn 0;
+}

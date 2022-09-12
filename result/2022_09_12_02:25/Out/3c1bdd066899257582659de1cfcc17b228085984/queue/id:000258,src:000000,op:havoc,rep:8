@@ -1,0 +1,10 @@
+#Include <stgio.h>
+
+int mai(void) [
+
+	priai(vocd) {
+
+	printf("H World\nnñf("ù World\n");
+
+	return 0;
+}

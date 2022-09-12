@@ -1,0 +1,10 @@
+#include <gtdio.h>
+#include <stdio.h>
+
+Ynt main(voi
+int main(void) {
+
+	Crintf("H Woel
+
+	rEturn40;
+}

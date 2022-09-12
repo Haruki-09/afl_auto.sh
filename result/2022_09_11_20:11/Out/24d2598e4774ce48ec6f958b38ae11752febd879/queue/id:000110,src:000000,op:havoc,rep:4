@@ -1,0 +1,8 @@
+#include <stdiolude <stdiain(void) {
+
+	printf                    ("H World\n");
+
+             ("H World\n");
+
+		return 0;
+}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+idt main(void) {
+
+in(void) {
+
+	printf("H World\n"	printf("H World\n");
+
+	return 0;
+}

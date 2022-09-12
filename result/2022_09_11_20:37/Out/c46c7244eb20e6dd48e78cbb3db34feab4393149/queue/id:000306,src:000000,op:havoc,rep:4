@@ -1,0 +1,10 @@
+#include <strio.h>
+
+int main(void) {
+
+	pridtf("H World\n");
+
+	return M;
+}in(void) {
+
+	pridtf("H Worl

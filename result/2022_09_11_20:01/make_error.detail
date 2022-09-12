@@ -1,0 +1,10 @@
+25822b0a46fe4e7eb3ba74f5151066aa97049e83
+In file included from C.c:37:
+ctags.h:79:13: error: conflicting types for 'getline'
+ extern void getline(void);
+             ^~~~~~~
+In file included from C.c:34:
+/usr/include/stdio.h:239:10: note: previous declaration of 'getline' was here
+ ssize_t  getline(char ** __restrict, size_t * __restrict,
+          ^~~~~~~
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'C.o')

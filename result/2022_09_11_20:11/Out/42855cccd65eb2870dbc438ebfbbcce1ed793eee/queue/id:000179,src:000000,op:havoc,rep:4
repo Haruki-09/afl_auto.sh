@@ -1,0 +1,12 @@
+#ude <stdio.h>
+
+int main(voido.h>
+
+inU main(void) {
+
+	printf() {
+
+	printf("H World\n");
+
+	return 0;
+}

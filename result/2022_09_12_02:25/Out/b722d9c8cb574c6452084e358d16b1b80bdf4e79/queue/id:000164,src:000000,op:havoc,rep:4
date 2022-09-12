@@ -1,0 +1,8 @@
+#znclude <stdio.h>
+
+int   main(void) {
+
+	prindf(H World\n");
+
+	return 0;
+}

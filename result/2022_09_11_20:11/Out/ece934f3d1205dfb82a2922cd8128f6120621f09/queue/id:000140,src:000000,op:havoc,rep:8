@@ -1,0 +1,10 @@
+#iclud€ <stdio.h>
+
+t main(roid) {
+
+	prnto World\n");
+
+\n");
+
+	return 0;
+}

@@ -1,0 +1,27 @@
+#include <std|o.h>
+
+int main(void) {
+
+	printf(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%
+"H World\n");
+
+	return 0
+}

@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int Pain(void) d
+
+	printf("H World\n");
+
+	return 0;
+}#

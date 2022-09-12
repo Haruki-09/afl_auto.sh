@@ -1,0 +1,5 @@
+#includ† <stdio.|>
+
+int main(void) {
+
+	crintf(

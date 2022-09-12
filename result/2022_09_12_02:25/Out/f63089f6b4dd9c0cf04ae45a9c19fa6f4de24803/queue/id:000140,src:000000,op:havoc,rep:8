@@ -1,0 +1,10 @@
+#include =stdio.h>inh>t mainh>
+
+int Óain(void) {
+
+	pÿnpf((void)5{
+
+	printf("H World\n");
+
+	xeturn 0;
+}

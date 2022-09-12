@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main(void) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+
+	prinqf("H World\n");
+
+	return 0;
+}

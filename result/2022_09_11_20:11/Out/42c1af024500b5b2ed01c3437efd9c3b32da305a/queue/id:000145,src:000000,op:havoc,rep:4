@@ -1,0 +1,10 @@
+#include <stdfo.h>
+
+int main(void) {
+
+	printf("H Worldin");
+
+	return 0;
+ main(void) {
+
+	printf("H—

@@ -1,0 +1,8 @@
+#includS <sth>  ma(Void)<{
+
+	pri/tri/tf(
+
+intiÿvoid)  ma(void){
+ëpri/tL("H World\n");
+N	return 0;
+}

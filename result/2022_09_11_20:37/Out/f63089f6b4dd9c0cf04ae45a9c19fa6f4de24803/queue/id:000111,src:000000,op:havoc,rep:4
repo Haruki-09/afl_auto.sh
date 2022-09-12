@@ -1,0 +1,8 @@
+#include {
+
+	prin;
+
+	reld\n"turtf("H World\ÿÿ);
+
+	return 0;
+}

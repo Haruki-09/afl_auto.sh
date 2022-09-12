@@ -1,0 +1,7 @@
+ÿÿÿÿlude Estdio.h>
+íhUt main(void) {
+
+	print"H World\n");
+
+	r      6       *              eturn 0;
+}

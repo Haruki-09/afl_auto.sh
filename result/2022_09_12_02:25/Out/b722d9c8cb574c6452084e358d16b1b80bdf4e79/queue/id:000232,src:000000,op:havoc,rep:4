@@ -1,0 +1,5 @@
+#include <stdio.%{ê
+	prinif("H World\n");inif("H World\n");
+
+	return 0;
+}

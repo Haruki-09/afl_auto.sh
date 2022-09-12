@@ -1,0 +1,8 @@
+#nclude<stdio.h>
+(
+iKt main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

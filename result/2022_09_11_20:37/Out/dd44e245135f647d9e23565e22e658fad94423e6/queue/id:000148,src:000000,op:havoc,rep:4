@@ -1,0 +1,8 @@
+#iZclude <stdio.h>
+
+@nt main(void) {
+
+	printU("d\n");
+
+	return 0;
+}

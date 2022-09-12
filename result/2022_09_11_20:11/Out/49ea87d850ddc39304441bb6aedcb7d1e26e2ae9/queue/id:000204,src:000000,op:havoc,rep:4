@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void) {
+
+	printf("Q Wor"""""""""""""""""""""""""A"""ld\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int2mainnnnnnnnnnnnnnnnnn(void) {
+
+	printf("? World\n");
+
+	reuurn 0;
+}

@@ -1,0 +1,7 @@
+#include <stdio.h>
+ïhnt main(void)orld\n {
+
+	printf("H World\n");
+
+	return 0;
+}

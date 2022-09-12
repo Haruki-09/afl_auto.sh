@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+Hnt main(void) {
+
+	prinˆf("Hello World\n");
+
+	return 0;
+}a~n(void) {
+
+

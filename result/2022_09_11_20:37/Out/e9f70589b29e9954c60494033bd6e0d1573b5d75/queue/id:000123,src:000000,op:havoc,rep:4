@@ -1,0 +1,6 @@
+#includein(void) {
+
+	printf("Hello World\n")N
+
+	ret^rn 0;
+}

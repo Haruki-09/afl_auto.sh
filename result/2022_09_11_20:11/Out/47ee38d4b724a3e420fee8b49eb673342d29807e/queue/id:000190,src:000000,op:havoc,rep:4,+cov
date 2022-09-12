@@ -1,0 +1,6 @@
+#include <stdio.J>
+
+int main(void) {nclude <stdio.hÿ	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,7 @@
+#inclu­e <stdio.h>
+
+int maHn(void) {
+
+	…rintf("A World\n");
+
+	re„uvn}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) {
+
+	printf("H World\n");
+
+	ren(void) {
+
+	printf("H World\n"€urn 0;
+}

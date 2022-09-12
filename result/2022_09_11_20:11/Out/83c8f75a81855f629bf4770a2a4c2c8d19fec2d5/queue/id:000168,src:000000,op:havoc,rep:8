@@ -1,0 +1,10 @@
+);
+J	retf("H Worl}\n");
+J	re(void) {
+
+	printf("H Wo@d\n");
+ÿretf("H Worl}\n");
+J	return 0;
+}
+turn 0;
+}

@@ -1,0 +1,10 @@
+#[nclsde!<stdio.h>
+
+int main(
+	pr\ntfintf("H W\rld\n");
+
+	return 0;
+}("H W\rld\n");
+
+	return 0;
+}®

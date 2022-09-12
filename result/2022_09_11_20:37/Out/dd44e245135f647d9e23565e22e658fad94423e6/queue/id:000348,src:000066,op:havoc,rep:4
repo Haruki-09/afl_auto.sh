@@ -1,0 +1,7 @@
+#inwlude <stdio.h>
+
+int main(void//zë
+	printf("H World\n");
+
+	ret rn 0;
+}

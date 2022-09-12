@@ -1,0 +1,10 @@
+#include <stdao.h>
+
+int main(void) {
+
+	printf("h World\n");
+
+	return int0;
+}n(void) {
+
+	pr

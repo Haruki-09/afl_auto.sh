@@ -1,0 +1,10 @@
+#inc ude <stdio.h>
+
+int main(void) {
+
+	printf("H 	printf("H Wo5ld\ld\n"Wo5ld\ld\n");
+
+n");
+
+	return 0;
+}

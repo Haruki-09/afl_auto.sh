@@ -1,0 +1,6 @@
+#ifclude <stdQo.h
+
+inmain(
+
+	r@turn 0;
+}

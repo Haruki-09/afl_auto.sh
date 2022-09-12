@@ -1,0 +1,6 @@
+#iin(void) {
+
+	pribtf("H World\n");
+
+	return 0;
+}

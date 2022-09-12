@@ -1,0 +1,8 @@
+#include <stdio.h>
+0000%0
+int main(void) {
+
+	xrintf("@ World\n");
+
+	return 0;
+}

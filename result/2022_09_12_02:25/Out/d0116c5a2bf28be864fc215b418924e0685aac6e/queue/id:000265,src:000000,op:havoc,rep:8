@@ -1,0 +1,8 @@
+#incprintf("H ;€rld;n");
+
+	return80;ludstdio.ntmain(void) {
+
+	printf("H ;€rld;n");
+
+	return80;
+}

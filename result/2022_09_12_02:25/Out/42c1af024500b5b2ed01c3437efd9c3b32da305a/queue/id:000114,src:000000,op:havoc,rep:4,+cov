@@ -1,0 +1,8 @@
+}include <std~o.h>
+
+Hnt main(void {
+
+	printf("H World\n");
+
+	return 0;
+}

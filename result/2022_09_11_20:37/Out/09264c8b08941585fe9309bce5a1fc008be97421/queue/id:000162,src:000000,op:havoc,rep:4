@@ -1,0 +1,6 @@
+#include <stKio.h>
+
+int main(void) {
+
+	prZntf("HWorld\n");ñ			return 0;
+}

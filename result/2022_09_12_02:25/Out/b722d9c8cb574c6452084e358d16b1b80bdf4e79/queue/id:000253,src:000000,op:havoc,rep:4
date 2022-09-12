@@ -1,0 +1,7 @@
+#inclu$e <||dio.h>
+
+int main(void) {
+
+	printf("H World\n"):ÿ
+	return 0;
+}

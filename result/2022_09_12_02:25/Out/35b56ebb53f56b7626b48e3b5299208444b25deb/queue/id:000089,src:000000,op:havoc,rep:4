@@ -1,0 +1,10 @@
+#inc{
+
+	printf("H World\n");
++lud3 <stdio.h>
+
+int main(void) {
+
+	printf("H World\n");
+
+	ret

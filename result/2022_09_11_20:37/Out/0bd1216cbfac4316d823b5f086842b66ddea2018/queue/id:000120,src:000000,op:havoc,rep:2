@@ -1,0 +1,10 @@
+#include d) {
+
+	printf(e <stdio.h>
+
+int mant main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

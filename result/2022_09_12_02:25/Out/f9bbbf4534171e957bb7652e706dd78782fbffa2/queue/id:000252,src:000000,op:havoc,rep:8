@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+inn main(void) ›
+
+	printfmain(void) ›
+
+	printa("H Wrintd\n");0;
+}

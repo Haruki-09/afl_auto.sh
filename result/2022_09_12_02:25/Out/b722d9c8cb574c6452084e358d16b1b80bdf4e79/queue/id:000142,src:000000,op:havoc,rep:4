@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void) intf("H World\n");
+
+ìreturnd0;
+}

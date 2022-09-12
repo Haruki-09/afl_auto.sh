@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void) clud{
+
+	printf("H WorlR\n");
+
+	return 0;
+}

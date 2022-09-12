@@ -1,0 +1,7 @@
+#include <stdio.è
+
+int main(void) 
+	printf("H WorldIn");
+
+	retuxn 0;
+}

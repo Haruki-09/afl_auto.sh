@@ -1,0 +1,8 @@
+#includin(void) {
+
+	print
+
+	printf("@ World\n");f("@ World\n5);
+
+	return 0;
+}

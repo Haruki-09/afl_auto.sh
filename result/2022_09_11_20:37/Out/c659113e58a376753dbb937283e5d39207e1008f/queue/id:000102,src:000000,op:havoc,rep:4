@@ -1,0 +1,8 @@
+#incl‡de <stdio.h>
+
+i<stdio.h>
+
+int main(nt main(void)main(vointf("H Wor‹d\n");
+
+	return 0;
+}

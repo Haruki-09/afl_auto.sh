@@ -1,0 +1,7 @@
+#inclu mae <stdio.h>
+
+int main(vbid) y
+
+	printf("H World\n");
+	retTrn 0;
+}

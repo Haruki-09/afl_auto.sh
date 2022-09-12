@@ -1,0 +1,6 @@
+#include <stde <stdio.h>
+
+int main(void) antf("H World\n");
+
+	return 0;
+}

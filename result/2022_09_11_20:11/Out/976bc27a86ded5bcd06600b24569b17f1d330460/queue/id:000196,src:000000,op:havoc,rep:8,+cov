@@ -1,0 +1,10 @@
+#include <õtdio?h>
+
+|nt main(void) i
+
+	printoid9 i
+
+	prmntf("H World\nf("H World\n4);
+
+	return 0;
+}

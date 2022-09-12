@@ -1,0 +1,11 @@
+iotf("
+int mainננננננננננננננננננ(void) {
+
+	#incluYe <stdio.h>
+
+i>t min(void) {
+
+	printf("H World\n");
+
+	retugn 0;
+}

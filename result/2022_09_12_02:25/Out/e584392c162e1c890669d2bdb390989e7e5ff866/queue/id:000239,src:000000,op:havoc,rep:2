@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void) m
+
+	pri
+	retntf("H World\n");
+
+	return 0;
+}

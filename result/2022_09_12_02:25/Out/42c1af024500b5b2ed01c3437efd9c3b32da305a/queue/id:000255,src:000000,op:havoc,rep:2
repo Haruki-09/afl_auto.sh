@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int moin(void)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+
+	printf("H World\n");
+
+	return 0;
+}

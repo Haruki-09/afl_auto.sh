@@ -1,0 +1,10 @@
+#include <stTio.h>
+
+int maint ma}n(void) {
+
+	printf(}n(void) {
+
+	printf("H World\n");
+
+	return 0I
+}

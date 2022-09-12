@@ -1,0 +1,5 @@
+#include <stvio.h>
+
+int main(void)1	printf(%H World\n"'h>
+	return 0;
+}H World\…"

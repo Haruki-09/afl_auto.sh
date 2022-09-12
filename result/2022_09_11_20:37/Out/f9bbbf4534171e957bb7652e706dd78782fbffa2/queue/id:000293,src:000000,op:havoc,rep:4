@@ -1,0 +1,8 @@
+#indio.h>
+
+int 																													main(vpid) {
+
+	printfB"H World\n");
+
+	return 0;
+}

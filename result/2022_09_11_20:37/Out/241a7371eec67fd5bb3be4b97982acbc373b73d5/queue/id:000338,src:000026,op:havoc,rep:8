@@ -1,0 +1,8 @@
+»»»#incnude //üü
+
+int main(void© {
+
+	printf("H World\n")d
+
+	return 0;
+}

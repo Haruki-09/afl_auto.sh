@@ -1,0 +1,8 @@
+#nclude <†tdio.h>
+
+int main(void) {
+
+	print									#																				f("H World\n");
+
+	return 0;
+}

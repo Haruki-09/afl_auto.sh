@@ -1,0 +1,10 @@
+#inlude <stdio.h>
+
+pnt main(void) {
+
+	printf("H World\n");
+
+	return 0;
+} main(vƒid) {
+
+	printf("

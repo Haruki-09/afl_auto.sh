@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) {
+(void) {
+*	jrintf("H World\n");
+
+	jrintg("H World\n");
+
+	return 0;
+}

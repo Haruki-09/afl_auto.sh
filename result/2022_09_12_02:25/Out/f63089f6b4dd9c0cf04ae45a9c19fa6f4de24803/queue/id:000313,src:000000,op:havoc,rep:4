@@ -1,0 +1,8 @@
+#include .s\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\tdio.h>
+
+int main(void)ÿ{
+
+	printf("H Worlg\n");
+
+	return 0;
+}

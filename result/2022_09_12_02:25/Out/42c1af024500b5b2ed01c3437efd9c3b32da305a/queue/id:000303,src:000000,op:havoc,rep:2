@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main(void)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+
+	priätf("H World\n");
+
+	return 0;
+}

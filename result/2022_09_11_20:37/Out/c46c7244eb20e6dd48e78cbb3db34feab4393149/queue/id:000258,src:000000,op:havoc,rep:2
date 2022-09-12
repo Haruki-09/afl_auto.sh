@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) œ
+
+	printf("H World\n");
+
+	ref("H World\n");
+
+	retuturn 0;
+}

@@ -1,0 +1,8 @@
+#inc||||||||||| ||||||||||in(void) {
+
+	prXotf("nclude <stdio.h>
+
+c„uint rld\n");
+
+	return 0;
+}

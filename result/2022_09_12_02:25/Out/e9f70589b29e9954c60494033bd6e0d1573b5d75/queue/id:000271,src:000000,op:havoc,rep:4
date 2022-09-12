@@ -1,0 +1,8 @@
+#include<“tdio.h>
+
+int main(void)                                 {
+
+	printf("H Worcd\n");
+
+	return 0;
+}

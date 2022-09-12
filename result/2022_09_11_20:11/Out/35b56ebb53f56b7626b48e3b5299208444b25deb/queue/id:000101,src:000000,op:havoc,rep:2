@@ -1,0 +1,7 @@
+#include <st
+int main(void) {
+
+	Xrintf("H World\n");
+
+	return 0;
+}

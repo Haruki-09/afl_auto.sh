@@ -1,0 +1,10 @@
+#ininclude <stdio.h>
+
+int main(voidclude <stdio.h>
+
+int main(void) {
+
+	printf("H WorJd\n");
+
+	return 0;
+}

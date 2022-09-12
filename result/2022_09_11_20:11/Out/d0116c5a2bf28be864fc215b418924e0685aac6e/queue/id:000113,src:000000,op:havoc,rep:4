@@ -1,0 +1,10 @@
+#include <s
+
+	printf(
+
+ÿÿÿÿmain(void) {
+
+	printf("H"H World\n");
+
+	return %;
+}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) {
+pint€("H World\n");
+
+	retuvn 0;
+	pintf("H World\n");
+
+	retuvn 0;
+}

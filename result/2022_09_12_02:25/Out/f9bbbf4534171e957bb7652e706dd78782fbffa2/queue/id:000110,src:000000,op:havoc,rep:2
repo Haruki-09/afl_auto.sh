@@ -1,0 +1,9 @@
+#include <stdio.h>
+int me <stdio.h>
+
+int main(void) ain(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

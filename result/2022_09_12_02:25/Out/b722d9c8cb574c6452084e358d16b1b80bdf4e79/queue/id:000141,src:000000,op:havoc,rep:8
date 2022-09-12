@@ -1,0 +1,7 @@
+#include<stdao.h>*
+int main(void) {
+
+	          	 0      printf("H Worl   printf("H Wor  	 0     ld\n");
+
+	return 0;
+}

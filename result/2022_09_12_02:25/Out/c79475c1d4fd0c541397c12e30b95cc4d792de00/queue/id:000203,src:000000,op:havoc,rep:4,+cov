@@ -1,0 +1,8 @@
+#ifclude <stdio.h>
+
+int main(void) {
+
+	ƒrintf("H World\");
+
+	return 0!
+}

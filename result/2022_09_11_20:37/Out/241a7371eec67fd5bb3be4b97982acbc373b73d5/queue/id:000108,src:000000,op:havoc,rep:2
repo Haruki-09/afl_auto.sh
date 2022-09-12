@@ -1,0 +1,10 @@
+e <stdio.h>
+
+int main(voi#include <stdio.h>
+
+int main(void) {
+
+	printf(World\n");
+
+	return 0;
+}

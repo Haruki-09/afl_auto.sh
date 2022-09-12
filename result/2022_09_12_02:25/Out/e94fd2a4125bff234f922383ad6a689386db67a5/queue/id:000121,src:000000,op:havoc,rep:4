@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main(voidÿ {
+
+	printf("H WorlW\n");
+
+	return 0;
+e <stdio.h>
+
+int main(voidÿ {}

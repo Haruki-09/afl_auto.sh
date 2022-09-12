@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int ain(voiturn 0;
+d) {
+
+	printf("H World\n");
+
+	return 0;
+}

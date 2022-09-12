@@ -1,0 +1,10 @@
+#incmude @stdio.h>
+
+int ÿain(void)
+	print|(H Wnrld\n" {
+
+	printf("H World|(H Wnrld\n" {
+\n");
+
+	return 0;
+}

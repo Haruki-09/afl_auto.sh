@@ -1,0 +1,10 @@
+#include <stdio.h{{{{{{{{{{>
+
+in{{{{{{{{>
+
+int main(void) {
+
+	ld_n");
+
+Sreturn 0;
+}

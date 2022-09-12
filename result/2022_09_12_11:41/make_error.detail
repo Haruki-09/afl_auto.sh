@@ -1,0 +1,13 @@
+3c1bdd066899257582659de1cfcc17b228085984
+0bd1216cbfac4316d823b5f086842b66ddea2018
+849ffff1711e57207beca6b6eac91d9ea9589a12
+ctags.c: In function 'main':
+ctags.c:80:6: error: implicit declaration of function 'tame' [-Werror=implicit-function-declaration]
+  if (tame("stdio rpath wpath cpath", NULL) == -1)
+      ^~~~
+cc1: some warnings being treated as errors
+*** Error 1 in /home/kosuge/ctags-link (<sys.mk>:87 'ctags.o')
+09264c8b08941585fe9309bce5a1fc008be97421
+dd44e245135f647d9e23565e22e658fad94423e6
+cfff592fdcba7224e5205351c52ccbbf732bea06
+e9f70589b29e9954c60494033bd6e0d1573b5d75

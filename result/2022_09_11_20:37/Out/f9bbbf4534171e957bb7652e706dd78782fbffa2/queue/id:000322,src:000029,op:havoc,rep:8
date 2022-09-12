@@ -1,0 +1,12 @@
+cinclude <sdio.h>
+ë);
+
+	return 0;
+}
+ëinint%main(void)0{
+
+	print("H World\n");
+
+	return 0;
+}
+ëint%main(void)h

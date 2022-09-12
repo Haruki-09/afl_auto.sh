@@ -1,0 +1,10 @@
+{io.h>
+
+int main(v
+
+int main(void) {
+
+	printf("H World\n5);
+
+	return 0;
+}

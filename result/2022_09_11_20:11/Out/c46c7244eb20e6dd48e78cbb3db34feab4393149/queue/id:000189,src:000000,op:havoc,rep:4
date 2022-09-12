@@ -1,0 +1,8 @@
+#include <stPio.h>
+
+int main(void) {
+
+	print                   f("H Worlÿÿn");
+
+	retuÿÿ 0;
+}

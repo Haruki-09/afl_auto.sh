@@ -1,0 +1,8 @@
+#include .h>
+
+int main(void) {
+
+ÿrintf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,7 @@
+#Q                        nclude <stdio.ÿ
+
+int main(void) zü
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,10 @@
+#Enclude <ltdio.h>
+
+ain(
+
+,void) {
+
+	printf("H Woild\n");
+
+	retRrn 0;
+}

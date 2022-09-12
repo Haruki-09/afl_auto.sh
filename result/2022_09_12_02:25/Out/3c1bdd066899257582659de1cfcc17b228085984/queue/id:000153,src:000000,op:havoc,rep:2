@@ -1,0 +1,8 @@
+#€rintf("H World\n");
+
+	main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

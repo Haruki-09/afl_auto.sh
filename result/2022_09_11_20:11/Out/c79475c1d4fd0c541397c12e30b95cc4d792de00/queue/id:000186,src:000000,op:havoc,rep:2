@@ -1,0 +1,10 @@
+#include stdio.h>
+
+in
+	prin<stdio.h>
+
+in
+	printf("H World\n");f("H World\n");
+
+	return 0;
+}

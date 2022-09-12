@@ -1,0 +1,12 @@
+#inclde <stdio.h>
+
+int máin(void)//{
+
+	prWntf("H World\n");
+
+{
+
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,11 @@
+include <st main(void) —
+
+	prdio.h>
+
+ mad) —
+int ma“n(void) —
+
+	printf("H"Wor\d\n");
+
+	return 0;
+}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+inintf("H World\n"-;
+
+t main(void) {
+
+	printf("H World\n"-;
+
+	return 0;
+}

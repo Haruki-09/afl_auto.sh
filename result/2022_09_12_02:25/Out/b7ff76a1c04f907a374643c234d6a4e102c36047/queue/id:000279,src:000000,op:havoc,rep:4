@@ -1,0 +1,6 @@
+\\\\\\\\\\\\\\\\\\\\\\a main(void) {
+
+	printf("H ÿorld\n");
+
+	return 0;
+}

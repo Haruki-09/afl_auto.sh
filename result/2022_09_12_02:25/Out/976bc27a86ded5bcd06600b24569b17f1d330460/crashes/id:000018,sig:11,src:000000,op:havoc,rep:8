@@ -1,0 +1,4 @@
+#include <stiio.9>#
+int$main(void) {
+
+	printf(

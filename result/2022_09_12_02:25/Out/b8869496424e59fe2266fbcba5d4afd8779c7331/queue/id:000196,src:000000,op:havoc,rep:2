@@ -1,0 +1,7 @@
+#incl	printf("H World\n");
+
+	return 0
+	printf("H""""""""");
+
+	return 0;
+}

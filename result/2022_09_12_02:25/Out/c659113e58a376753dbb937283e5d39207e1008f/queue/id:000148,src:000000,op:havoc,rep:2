@@ -1,0 +1,6 @@
+#inclÿÿe <stdio.h>
+
+int main(void)tf("	printf("H World\n");
+
+	return 0;
+}

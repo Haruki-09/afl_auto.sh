@@ -1,0 +1,9 @@
+retur}#n(von 0;
+}#~(void) {include <s4dio.h>
+
+iÿÿ main(void) {
+
+	prGntf("H World\n");
+
+	return 0;
+}&

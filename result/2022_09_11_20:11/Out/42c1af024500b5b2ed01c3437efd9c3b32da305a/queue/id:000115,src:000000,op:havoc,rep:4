@@ -1,0 +1,27 @@
+#incl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in(qld\n"oid) {
+
+	printë("H World\n");
+
+	return 0;
+}

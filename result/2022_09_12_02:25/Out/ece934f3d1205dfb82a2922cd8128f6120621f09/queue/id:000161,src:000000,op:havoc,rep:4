@@ -1,0 +1,8 @@
+#include@<stdio.h>
+
+…nt main(void) {
+
+	printf;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;("H World\n");
+
+	return €;
+}

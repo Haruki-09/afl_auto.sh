@@ -1,0 +1,6 @@
+#includ {
+
+	printf("H World\nd);
+
+	return 0;
+}

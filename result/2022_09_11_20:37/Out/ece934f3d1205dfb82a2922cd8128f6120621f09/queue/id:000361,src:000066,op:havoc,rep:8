@@ -1,0 +1,10 @@
+#include <dtdio.h>
+
+inmHin(void)/zé
+	printf("H\n");
+
+	ret Worlt mHin(void)/zé
+	printf("H World\n");
+
+	returñ 0@
+}

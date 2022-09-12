@@ -1,0 +1,5 @@
+#include <stdio.h>
+
+inp main("""""""""""""""""""""""voi"""""""""intf("H World\n");
+*	return 0;
+}

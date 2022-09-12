@@ -1,0 +1,8 @@
+#in <stdioÉ|>ioÉ|>
+
+int main(void) {
+
+	printf("H World\n");
+
+	requrn 0;
+}

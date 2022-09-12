@@ -1,0 +1,10 @@
+#inc
+
+	rrintf("H World\n");
+
+	rid) {
+
+	rrintf("H World\n");
+
+	return 0;
+}

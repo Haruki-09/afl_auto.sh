@@ -1,0 +1,7 @@
+#include <sqdin(void) {
+
+	Ärintf("Hel);
+lo World\n");
+
+	return 0;
+}

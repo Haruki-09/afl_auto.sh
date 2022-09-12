@@ -1,0 +1,8 @@
+#inãlude <stdio.|ˆ|||||||||||||||||||||||||||h>
+
+int main(void) {
+
+	prinuf("H World\n");
+
+	return 0;
+}

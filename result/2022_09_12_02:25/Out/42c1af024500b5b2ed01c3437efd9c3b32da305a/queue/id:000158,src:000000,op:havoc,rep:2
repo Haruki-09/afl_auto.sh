@@ -1,0 +1,10 @@
+#include) f("H World\n");orld\n");
+
+	re <stdio.h>
+
+int main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

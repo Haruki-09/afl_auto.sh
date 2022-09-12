@@ -1,0 +1,8 @@
+#include <stdko.h>
+
+int main(voi`) {
+
+	printf("H World\");
+
+	return 0;
+}

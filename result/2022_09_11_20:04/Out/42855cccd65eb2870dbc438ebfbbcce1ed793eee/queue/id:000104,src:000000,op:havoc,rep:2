@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+printf("H Worldint main(void) {
+
+	printf("H World\n");
+
+	return 0;
+"H World\n");
+
+	return 0;
+}
+}

@@ -1,0 +1,10 @@
+#i]clude <stdi
+
+	printf(H Worldo.h>
+
+int main(void) {
+
+	prin`f(H World\n");
+
+	return 0;
+}

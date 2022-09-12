@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+ntf("H World\n")
+
+	printf("H World\n");
+
+	return 0;
+}

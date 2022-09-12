@@ -1,0 +1,8 @@
+#incìude 	stdio.h>
+
+int main(void) ............N...................{
+
+	prif("H WorWorld\n");
+
+	return 0;
+}

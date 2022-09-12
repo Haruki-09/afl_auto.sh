@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void)d) {
+
+	pWintf("H World\n");
+
+	 k
+
+#include <stdio.h>
+
+int main(	printf("H World\n");
+
+	return 0;
+}

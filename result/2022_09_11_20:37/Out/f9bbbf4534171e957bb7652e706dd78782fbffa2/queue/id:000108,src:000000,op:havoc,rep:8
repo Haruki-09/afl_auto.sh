@@ -1,0 +1,6 @@
+#incl da) {
+
+	pr"H World\n")ÿ
+
+	return 0;
+}

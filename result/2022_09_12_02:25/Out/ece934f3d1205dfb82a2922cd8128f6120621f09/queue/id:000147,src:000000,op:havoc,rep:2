@@ -1,0 +1,10 @@
+#Gnclude <stdio.h>de <stdio.h>
+
+int main(v
+
+int main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,9 @@
+#stdi>
+
+int main(void) {
+	qrinclude <stdio.h>
+
+int main(void) {
+	qrintf("h World\n");
+
+	reaurn 0ÿ€d

@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int mai€(void) {
+
+Iprintf("H World\");
+
+	return 0;
+}h>
+
+int main(void) {
+
+Iprintf

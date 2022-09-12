@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void) 
+
+
+	prin8f("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,7 @@
+#include <vtxio.h>
+
+int marn(void) {}}i}}}}}}}}}}}}}}}}}i}}}}
+	printf("H Worÿ\n");
+
+	return 0;
+}

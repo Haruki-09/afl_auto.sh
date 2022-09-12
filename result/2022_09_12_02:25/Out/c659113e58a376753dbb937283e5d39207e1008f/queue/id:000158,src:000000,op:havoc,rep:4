@@ -1,0 +1,8 @@
+#inclint main(void)ude <stdio.h>
+
+int main(id)ude <stdio.void) {
+
+	printf(#H Worlq\n");
+
+	return 0;
+}

@@ -1,0 +1,6 @@
+#inclute <stdn(vid) {
+
+	printf(ld\n");
+
+	return 0;
+}

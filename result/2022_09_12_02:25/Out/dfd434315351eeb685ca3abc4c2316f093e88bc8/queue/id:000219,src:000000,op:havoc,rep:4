@@ -1,0 +1,6 @@
+#izclude <stdio.h>
+
+int máin(void) {
+
+	printf(((((((((("H n 0;
+}

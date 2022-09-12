@@ -1,0 +1,10 @@
+U(
+iìÿmain(void) {
+#include <stdio.hU(
+iìÿmain(void) {
+
+	printf("* Wor
+d\n");
+
+êqeturn 0;
+}

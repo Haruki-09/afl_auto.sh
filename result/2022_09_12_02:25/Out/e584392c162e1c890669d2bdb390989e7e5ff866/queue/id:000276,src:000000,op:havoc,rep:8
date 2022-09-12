@@ -1,0 +1,20 @@
+#inÏlude <stdio.h>
+
+innt man(void)i
+
+
+
+
+
+
+
+
+
+
+
+
+
+innt main(void)intf(" Aorld\n");
+
+	return 0;
+}

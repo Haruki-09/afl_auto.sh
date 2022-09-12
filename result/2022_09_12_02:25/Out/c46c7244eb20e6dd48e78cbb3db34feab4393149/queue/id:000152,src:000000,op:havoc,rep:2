@@ -1,0 +1,10 @@
+#inclÿÿÿ<stdio.h>
+
+int main(void) {
+
+	printf("H World\n");"H World\n");
+
+	return 0;
+
+	return 0;
+}

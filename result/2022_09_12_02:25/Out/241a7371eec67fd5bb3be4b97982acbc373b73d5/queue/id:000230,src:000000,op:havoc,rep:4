@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) 
+
+	pririntf("H World\n");
+
+	returnÿtf("H Wovld\n");
+
+	return 0;
+}

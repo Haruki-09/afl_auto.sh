@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main(void) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+
+	printf("H WorlZ\n");
+
+	return 0;
+}

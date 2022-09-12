@@ -1,0 +1,8 @@
+#inc	ude <stdio.h>
+
+int main(void) {
+
+	printf5"H WAn");
+
+	return 0;
+}

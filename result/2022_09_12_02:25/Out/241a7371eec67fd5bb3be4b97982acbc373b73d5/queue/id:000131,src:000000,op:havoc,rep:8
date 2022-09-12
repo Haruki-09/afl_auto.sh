@@ -1,0 +1,8 @@
+#("H World\n");
+
+	retuin(po("H World\n"id){
+
+	printf("H World\n");
+
+	retuZn 0;
+}

@@ -1,0 +1,10 @@
+#i	orld\n");
+ncprintf"H World\n");
+ncÿude <stdio.h>
+
+in``````````````````````````````````(void) {
+
+	printf"Hÿ€orld\n");
+
+	return 0(
+}

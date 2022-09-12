@@ -1,0 +1,10 @@
+#			 {
+
+	prtdio.h>
+
+int mai (void) {
+
+	printf("H Jorld\n");
+
+	return 0;
+}

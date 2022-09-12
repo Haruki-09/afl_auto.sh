@@ -1,0 +1,7 @@
+#include <stdo.h>
+
+int main(void) {
+
+	printf(              
+	re|urn 0;
+}

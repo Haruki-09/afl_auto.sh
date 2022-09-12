@@ -1,0 +1,12 @@
+#incdude <stdio.h>
+
+†nt mainp
+
+	pri@tf("H World\n");
+
+	‘e(void)p
+
+	pri@tf("H zorld\n");
+
+	return 0;
+}

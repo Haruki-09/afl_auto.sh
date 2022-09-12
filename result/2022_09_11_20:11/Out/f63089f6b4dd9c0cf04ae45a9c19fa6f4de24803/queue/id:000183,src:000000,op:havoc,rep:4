@@ -1,0 +1,6 @@
+#i²clude <stdio.h>	óint mai <stdi) {
+
+	printf("H World\n")H
+
+	return 0;
+}

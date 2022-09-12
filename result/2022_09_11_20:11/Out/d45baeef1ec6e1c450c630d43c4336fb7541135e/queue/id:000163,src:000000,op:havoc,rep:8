@@ -1,0 +1,10 @@
+#include <sˆdio.h>
+
+int<sˆdio.h>
+
+int main(void) {
+
+	printf( World\n");
+
+	returmý0;
+}

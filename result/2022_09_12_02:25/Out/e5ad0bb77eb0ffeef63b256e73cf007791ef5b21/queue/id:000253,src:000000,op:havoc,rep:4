@@ -1,0 +1,8 @@
+#includa <stdio.h>
+
+int main(void) 																										{
+
+	printf("H									í	 World\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+i____________________nt main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}________________nt main(void)

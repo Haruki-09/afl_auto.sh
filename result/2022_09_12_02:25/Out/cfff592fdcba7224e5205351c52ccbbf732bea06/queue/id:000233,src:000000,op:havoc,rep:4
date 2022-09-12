@@ -1,0 +1,3 @@
+#incl(void) {
+
+	printf("H rld\n\n");				e

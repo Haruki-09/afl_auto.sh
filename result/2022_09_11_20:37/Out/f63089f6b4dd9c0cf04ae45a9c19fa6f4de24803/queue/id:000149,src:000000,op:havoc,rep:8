@@ -1,0 +1,6 @@
+#inwlude <st
+i....nt main(void) ÿ
+	printf("  n");
+
+	return 0;
+}

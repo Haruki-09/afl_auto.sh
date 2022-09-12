@@ -1,0 +1,6 @@
+#include <stdio<<<<<<<<<<<<<<<<<d) {
+
+	printf("H World\n")8
+
+	return 0;
+}

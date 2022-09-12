@@ -1,0 +1,10 @@
+#include <stdio.]>
+
+int main(void) {
+
+	printf("H Wrld\n");
+
+	return 0;
+} main(void) {
+
+	print

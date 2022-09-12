@@ -1,0 +1,10 @@
+#in@lude <stdio.h>
+
+int murn 0;
+ain(vo
+	Returid) {
+
+	printf("H World\n");
+
+	Return 0;
+}

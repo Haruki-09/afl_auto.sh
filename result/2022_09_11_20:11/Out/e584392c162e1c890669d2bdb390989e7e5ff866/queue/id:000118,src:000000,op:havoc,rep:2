@@ -1,0 +1,5 @@
+#in(void) {
+
+	printf("H W
+	return 0;
+}

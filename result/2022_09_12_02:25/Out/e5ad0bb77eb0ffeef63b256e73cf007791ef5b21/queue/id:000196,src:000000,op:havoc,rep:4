@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int mai''''''''tf("H Woƒld\ÿ€);
+
+	printf("H Woƒld\n");
+
+	return 0;
+}

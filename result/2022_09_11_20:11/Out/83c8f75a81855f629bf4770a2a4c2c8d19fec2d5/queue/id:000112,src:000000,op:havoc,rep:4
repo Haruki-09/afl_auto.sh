@@ -1,0 +1,8 @@
+ <stdioAh>
+
+int mai#include <stdio.h>
+
+int main(void) {
+
+	pritf	return 0;
+}

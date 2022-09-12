@@ -1,0 +1,8 @@
+#inclÈde <so.h>
+
+int maik(void) {
+
+	printf("H W\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\orld\n");
+
+	return 0;
+}

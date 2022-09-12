@@ -1,0 +1,6 @@
+#																									in(‚oid) {
+
+	printf("H Worldn");
+
+	return 0;
+}

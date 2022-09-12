@@ -1,0 +1,6 @@
+#inKlude <stdio.h>
+ent {{{{{{{{{{mae <void) {€
+	Crintf("H World\n");
+
+	return 0;
+}

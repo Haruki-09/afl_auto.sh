@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+iZt main(void) {
+
+	printf("\n");
+
+	return 0;
+}

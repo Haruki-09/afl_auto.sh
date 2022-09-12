@@ -1,0 +1,9 @@
+("H Vorld\n");
+
+	return 0;
+#inchu main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

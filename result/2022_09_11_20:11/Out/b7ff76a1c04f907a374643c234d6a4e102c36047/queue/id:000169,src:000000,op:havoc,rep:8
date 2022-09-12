@@ -1,0 +1,46 @@
+#incl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ude <stdio.h>
+
+intdmain(v€id# {
+
+	printf("H World\n");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Return 0;
+}

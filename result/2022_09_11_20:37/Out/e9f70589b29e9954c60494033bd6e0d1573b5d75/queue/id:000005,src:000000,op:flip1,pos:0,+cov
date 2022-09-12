@@ -1,0 +1,8 @@
+"inch>
+
+int d) {
+
+	printf("Hello World\n");
+
+	return 0;
+}

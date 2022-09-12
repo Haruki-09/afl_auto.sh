@@ -1,0 +1,8 @@
+#include <stdio.X>
+
+int!main(void)                         {
+
+printf("H Uorld\n");
+
+	reYtrn 0;
+}

@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void) {
+
+	printW("H \\\\\\\\\\\\\return 0;
+}

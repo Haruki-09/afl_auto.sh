@@ -1,0 +1,10 @@
+#
+
+in” maiƒ(void) {
+
+	p main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}
