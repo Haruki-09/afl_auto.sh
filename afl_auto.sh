@@ -18,7 +18,7 @@ mkdir -p ${result_dir}/Out
 out=${result_dir}/Out
 in=${afl_auto_dir}/In
 
-echo -e "\n Please select commit id file \n" ; ls ${afl_auto_dir}/commit_id
+echo -e "\n Please select commit id file \n" ; ls -lt ${afl_auto_dir}/commit_id
 read -p "commit id filename: " input_id && commits=${afl_auto_dir}/commit_id/${input_id}
 #read -p "commit date filename: " input_date && commit_dates=${afl_auto_dir}/commit_id/${input_date}
 
@@ -29,7 +29,7 @@ touch ${result_dir}/make_error.detail && make_error_detail=${result_dir}/make_er
 touch ${result_dir}/make_success.log && make_success=${result_dir}/make_success.log
 touch ${result_dir}/crashes_count.log && afl_crashes=${result_dir}/crashes_count.log
 
-echo "object_id:	crashes" >> ${afl_crashes}
+echo -e "object_id / date / crashes\n" >> ${afl_crashes}
 
 #echo -e "\n checkout orgin/master"
 cd /home/kosuge/ctags-link
