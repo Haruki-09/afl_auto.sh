@@ -1,0 +1,13 @@
+#include h>
+
+int main(void) ^
+
+<stdio.h>
+ÿnt main(void) ^
+
+}
+
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,6 @@
+#include <Qtdio.h>
+
+int main(void) {
+
+	printf("H
+}

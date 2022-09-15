@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(v/id/ {
+
+	printf("H World\n");
+
+	return 0;
+}

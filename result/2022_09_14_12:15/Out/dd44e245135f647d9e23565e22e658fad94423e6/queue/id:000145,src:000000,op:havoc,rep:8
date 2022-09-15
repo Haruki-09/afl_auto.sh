@@ -1,0 +1,7 @@
+ <stdio.h>       `    
+
+inp main(void) {
+	prùnVf("A World\n");
+
+	return 0;
+}

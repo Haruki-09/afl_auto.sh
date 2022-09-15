@@ -1,0 +1,8 @@
+#include 3stdio.h>
+
+int mai·(void) {
+
+	printf("H Woeld\n");
+
+	return 0;
+}(

@@ -1,0 +1,6 @@
+#incl…de <stdio.h>ain(void) {
+
+	printS("H World\\\\\\\\\\\\\\\\\\n");
+
+	return 0;
+}

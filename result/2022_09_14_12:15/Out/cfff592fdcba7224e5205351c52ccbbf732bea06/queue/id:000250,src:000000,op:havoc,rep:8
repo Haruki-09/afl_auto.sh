@@ -1,0 +1,11 @@
+#include <std
+int %ain(<std|o.h^ <std|o.h^
+
+int %ain(<s
+
+int %ain(void)#void) {
+
+	print‚("H World\n");
+
+	return 0;
+}

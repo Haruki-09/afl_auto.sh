@@ -1,0 +1,6 @@
+#idclude <stdio.h>|||||||||||||||||||||||||||
+
+int ma/n(void) {
+
+	printf("H Worldun");@	meturn 0;
+}

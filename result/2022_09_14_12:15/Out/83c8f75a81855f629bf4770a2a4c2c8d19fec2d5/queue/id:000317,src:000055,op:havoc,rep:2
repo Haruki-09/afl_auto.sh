@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void)/Š
+
+	printf("H World\n"d)/{
+
+	purn 0;
+}

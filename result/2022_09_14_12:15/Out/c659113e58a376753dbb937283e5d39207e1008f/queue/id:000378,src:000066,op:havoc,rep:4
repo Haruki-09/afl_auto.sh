@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+inth>
+
+int main(void)/ main(void)/{
+ÿÿÿintf("H World\n);
+
+	return 0;
+}

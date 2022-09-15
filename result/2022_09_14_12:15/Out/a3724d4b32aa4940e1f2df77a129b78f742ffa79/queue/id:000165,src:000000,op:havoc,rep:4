@@ -1,0 +1,11 @@
+#inclÿÿÿÿ<stdio.h>
+
+int main(void) {
+
+	prin f("H World\n");
+
+	ret"rld\n");
+);
+
+	retuurn 0;
+}

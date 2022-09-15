@@ -1,0 +1,8 @@
+#include <stdio.hS
+
+int     >      {
+
+	printf("H );
+
+	return 0;
+}

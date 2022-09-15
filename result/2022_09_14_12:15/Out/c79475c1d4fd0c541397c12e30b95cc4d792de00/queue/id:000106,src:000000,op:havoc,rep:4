@@ -1,0 +1,8 @@
+#
+
+int cain(voie) {
+
+	priintf("H ntf("H World\n");
+
+	return 0;
+}

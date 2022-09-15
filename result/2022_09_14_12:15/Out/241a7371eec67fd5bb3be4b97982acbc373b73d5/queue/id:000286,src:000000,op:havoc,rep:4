@@ -1,0 +1,6 @@
+Cinclude <stdio.h>
+
+int main(void)                ÿÿÿ
+	printf("H World\n");
+
+	return 0:ñ}

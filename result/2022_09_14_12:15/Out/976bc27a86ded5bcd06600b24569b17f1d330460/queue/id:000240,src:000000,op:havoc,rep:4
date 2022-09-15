@@ -1,0 +1,10 @@
+#                   >
+
+iwt ma        >
+
+iwt maIn(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

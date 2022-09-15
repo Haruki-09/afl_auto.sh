@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void) {
+
+	printf("H World\y");
+
+	return 0;
+}de <stdio.h>
+
+int main(void) {
+
+

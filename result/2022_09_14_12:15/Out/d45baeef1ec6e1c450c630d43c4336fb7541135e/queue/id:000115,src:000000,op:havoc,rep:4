@@ -1,0 +1,8 @@
+nt main(void) {
+
+	print#in…lrintf("H World\n");(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

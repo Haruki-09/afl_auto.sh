@@ -1,0 +1,8 @@
+#		cludf <stdio.h>
+
+int mairen(void) {
+
+	printf("H Wo2ld\n");
+
+	return 0;
+}

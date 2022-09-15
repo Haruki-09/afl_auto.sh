@@ -1,0 +1,7 @@
+#																				*io.h>
+
+int main(void) {
+
+	pŸintf("Hú("H World\a");
+turn 0;
+}

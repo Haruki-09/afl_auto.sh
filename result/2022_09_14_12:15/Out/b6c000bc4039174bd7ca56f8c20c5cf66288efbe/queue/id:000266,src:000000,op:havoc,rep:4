@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int mai~(void) {
+
+	printf("@ World\n");
+
+	return 0;
+}
+
+int mai~(qoid) {
+
+

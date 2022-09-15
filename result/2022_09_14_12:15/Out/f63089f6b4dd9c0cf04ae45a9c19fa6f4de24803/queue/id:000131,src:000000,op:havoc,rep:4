@@ -1,0 +1,8 @@
+#ingZude <stdio.h>
+
+in{{{{{{{{{t main(void) {
+
+	printf("H World\n");
+
+	return 0;
+d

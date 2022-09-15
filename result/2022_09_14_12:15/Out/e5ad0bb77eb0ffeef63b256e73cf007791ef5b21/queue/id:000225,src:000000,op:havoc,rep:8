@@ -1,0 +1,10 @@
+#incd) {
+
+	p`intf("H World\n");
+
+	f("H World\n");
+
+	returm 0;
+p`intf("H World\n");
+
+	f("}

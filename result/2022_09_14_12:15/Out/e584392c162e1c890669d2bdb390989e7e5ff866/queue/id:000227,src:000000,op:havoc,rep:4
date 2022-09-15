@@ -1,0 +1,8 @@
+#include <stdio'''''''''''/'''''''''''''''''''.h>
+
+int mNin(void) {<stdio.h
+
+	printf("H World\n");
+
+	return 0;
+}

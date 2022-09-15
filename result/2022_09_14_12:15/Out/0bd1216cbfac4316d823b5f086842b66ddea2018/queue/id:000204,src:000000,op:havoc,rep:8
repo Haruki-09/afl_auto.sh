@@ -1,0 +1,8 @@
+#bnslude <stdio.h>
+
+intmmait(void)                         {
+
+	prictf("H Worlä\n");
+
+	return 0;
+}

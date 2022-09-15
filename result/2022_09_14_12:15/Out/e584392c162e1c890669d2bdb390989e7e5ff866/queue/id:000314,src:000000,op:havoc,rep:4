@@ -1,0 +1,6 @@
+#include <stdio}
+>
+
+int main(void)ÿÿÿ("H World\n");	printf("H World\n");
+
+	return 0;}

@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(vpid)/{
+
+	printf("H Would\n");
+
+	return0;
+} main(void)

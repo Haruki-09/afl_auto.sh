@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int maÿÿÿ{{{{{{{{{{rintf("H World\n");
+
+	return 0;
+}

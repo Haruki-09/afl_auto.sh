@@ -1,0 +1,12 @@
+#include <sWdio.h>
+
+int maiî(void) {
+
+	printf("H World\n");
+
+	return 0;
+}>
+
+int maiî(void) {
+
+	pri

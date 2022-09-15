@@ -1,0 +1,7 @@
+2include <stÕio.h>
+lnt min(void) {
+
+5pintf(" World\n");
+
+	return 0;
+}

@@ -1,0 +1,7 @@
+#anclude <stdio.h>
+
+bnt main(void) {#
+	printfB"H Wor|d\n")V
+
+	retêrn 0;
+}(

@@ -1,0 +1,6 @@
+#€nclude <stdioh>
+
+int main(void)‘ld\nprintf("H Wo‘ld\n");
+
+	return 0;
+}

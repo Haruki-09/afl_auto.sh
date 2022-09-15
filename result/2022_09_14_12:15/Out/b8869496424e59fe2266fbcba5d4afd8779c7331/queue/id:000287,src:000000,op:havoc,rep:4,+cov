@@ -1,0 +1,14 @@
+#include <stdwo.h>
+
+int main(void) {
+
+	printf("
+	return 0;
+}n(void) {
+
+	printf(H ÿrld\n");
+
+	return 0;
+}n(void) {
+
+	printf("H ÿrld\n"

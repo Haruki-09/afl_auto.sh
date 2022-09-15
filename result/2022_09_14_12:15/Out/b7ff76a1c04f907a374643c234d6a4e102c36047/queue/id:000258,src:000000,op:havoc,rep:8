@@ -1,0 +1,7 @@
+#include <stdio.h>
+*int bain(void) {
+#	printf(" main(void) {
+#	printf("H€WomH Womld\c");
+
+	retu‰n 0;
+}

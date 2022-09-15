@@ -1,0 +1,9 @@
+#include <qtdio.h>
+
+int main(void) ”
+
+	printf("H World\n");
+
+	retumain(void) ”
+
+	prirn 0;}

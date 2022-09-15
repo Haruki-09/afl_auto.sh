@@ -1,0 +1,8 @@
+#include <stdio.h>	þint main(vo)d) {
+
+	printf("H World_n");
+
+	return 0;
+}include <stdio.h>
+
+int mÿÿn(vo)

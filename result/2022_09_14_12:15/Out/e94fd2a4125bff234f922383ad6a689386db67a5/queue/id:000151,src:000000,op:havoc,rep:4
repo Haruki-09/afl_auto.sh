@@ -1,0 +1,7 @@
+#include <stdxo.h>ï
+int main(void) {
+
+	printf("H World\n");
+
+	r{{{{{{{{{{{{{{{{{{{{{{eturn ;
+}

@@ -1,0 +1,6 @@
+#inclu {
+	printf("H World\n")M
+
+	r#inclu {
+	printf 0;
+}

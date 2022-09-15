@@ -1,0 +1,8 @@
+#inclu`e <s“dio.h>
+
+int main(void) {
+
+	prMntf("H World\n");
+
+	return 0;
+}ain(void) {

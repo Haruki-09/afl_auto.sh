@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int mai%%%%%%%%%%%%%%%%%%n(void) {
+
+	printf("H World\n");
+
+	retuˆn 0;
+}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) q
+
+	printf("H World\
+
+	printf("H Wn");
+
+	return 0;
+}

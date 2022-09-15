@@ -1,0 +1,6 @@
+#include^<std|o.h>
+
+int main(void)id) {
+
+	printf("H World\n")	returo 0;
+}

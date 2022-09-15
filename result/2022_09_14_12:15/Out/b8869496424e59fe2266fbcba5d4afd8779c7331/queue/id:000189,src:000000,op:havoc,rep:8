@@ -1,0 +1,8 @@
+#incluincl‚ntf("H World\n");
+ <stdio.h>
+
+idio.h>de <s
+	printf("\ World\n");
+
+	return 0;
+}

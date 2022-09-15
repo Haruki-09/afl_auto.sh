@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void) {
+
+	p?intf("H World\n");
+
+	return 0;
+}/

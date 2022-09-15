@@ -1,0 +1,6 @@
+#incluee <stdio.h>
+
+in	printnnnnnnnnnnnnnnnnnnnnnnnnnnf("H World\n");
+
+	return 0;
+}

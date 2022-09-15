@@ -1,0 +1,7 @@
+#include RRRRRRRRRRRRRRRRRRRRRRRRRRRRR<stdio.h>
+
+int main(voYd) {
+ì	printf(" World\n");
+
+	return 0;
+}

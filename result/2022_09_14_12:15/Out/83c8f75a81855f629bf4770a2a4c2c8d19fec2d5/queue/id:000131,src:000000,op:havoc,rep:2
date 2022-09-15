@@ -1,0 +1,6 @@
+#include <st(void) {
+
+	printf("H World\n");tf("H World\n");
+
+	return 0;
+}

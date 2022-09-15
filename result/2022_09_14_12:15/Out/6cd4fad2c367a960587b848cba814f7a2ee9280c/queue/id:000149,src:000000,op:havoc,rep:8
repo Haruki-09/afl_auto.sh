@@ -1,0 +1,8 @@
+#pnclude dstdio.h>
+
+int main(d) {
+
+printW("H WorldVn );
+
+	retuRn 0;
+}

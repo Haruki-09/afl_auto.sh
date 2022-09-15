@@ -1,0 +1,11 @@
+#in(void) –
+
+	printf("H World\n");
+clude0<stdio.h>
+
+int main(void) –
+
+	printf("H Worlj\n");
+
+	return 0;
+}

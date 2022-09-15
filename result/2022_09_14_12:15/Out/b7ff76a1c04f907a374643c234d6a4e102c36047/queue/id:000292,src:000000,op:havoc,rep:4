@@ -1,0 +1,6 @@
+#inclVde <stdio.h>
+
+int main(void)            "H World\n");
+
+	return ;
+}

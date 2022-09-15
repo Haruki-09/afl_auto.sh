@@ -1,0 +1,10 @@
+#include <stdionh>
+
+inb main(void) {
+
+	pr‰f("H World\n");
+
+	rn 0;
+}main(void) {
+
+	pr‰f("DWorl

@@ -1,0 +1,9 @@
+include <stdio.h=ÿ
+int main(void)/‚
+
+	printf("H World\n"n(void)/‚
+
+	printf("H World\n"));
+
+	return 0;
+}

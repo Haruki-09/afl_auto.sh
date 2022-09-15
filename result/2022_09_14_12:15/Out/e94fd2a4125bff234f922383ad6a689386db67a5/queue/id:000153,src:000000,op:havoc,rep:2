@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(void) {
+
+	printf("H Wozld\n");
+
+	return 0;
+}

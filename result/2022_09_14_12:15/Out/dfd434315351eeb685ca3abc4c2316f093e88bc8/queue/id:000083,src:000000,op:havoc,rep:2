@@ -1,0 +1,8 @@
+#include <stld\n");
+
+	r main(void) {
+
+	printf("H Wold\n");
+
+	return 0;
+}

@@ -1,0 +1,10 @@
+#e <stdè.
+
+	return ;
+#e <stdè&
+
+	retn 0;
+#e <stdè&
+
+	return 0;
+}

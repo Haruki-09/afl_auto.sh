@@ -1,0 +1,9 @@
+3in{
+
+	prinvf("H World\n")vf("H Wozld\n");
+
+	ret	rn 0;
+};
+
+	return 0;
+}

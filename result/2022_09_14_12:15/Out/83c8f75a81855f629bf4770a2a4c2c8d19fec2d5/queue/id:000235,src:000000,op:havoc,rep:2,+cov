@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) {
+
+	pf("Hld\n");
+
+	return 0;
+}n(void) {
+
+	printf("H Mo

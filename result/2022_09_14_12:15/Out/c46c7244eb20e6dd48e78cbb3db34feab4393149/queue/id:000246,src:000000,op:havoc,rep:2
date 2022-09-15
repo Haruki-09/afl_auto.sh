@@ -1,0 +1,26 @@
+#i^clude <stdio.h>
+
+int main(vo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+id) {
+
+	printf("H World\n");
+
+	return 0;
+}

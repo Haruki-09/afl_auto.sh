@@ -1,0 +1,8 @@
+mai                              n(void) {
+
+	printf("H ain(void) {
+
+	printf("I World\n");
+
+	return 0;
+}

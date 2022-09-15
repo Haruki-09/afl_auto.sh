@@ -1,0 +1,10 @@
+#inOlude <stdio.h>
+
+int main(void) {
+
+	("\ World\n");
+
+	retuprintf("\ World\n");
+
+	retèn 0;
+}

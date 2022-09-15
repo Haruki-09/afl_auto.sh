@@ -1,0 +1,6 @@
+#include ÿstdi‰.h>
+
+Wint main(v"H <orld\n");
+
+	return 0;
+}

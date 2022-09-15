@@ -1,0 +1,6 @@
+#itdio.h>
+
+int main(void) {
+
+	printf("H WoOld\n");;;;;;;;;;;;;;;;;
+}

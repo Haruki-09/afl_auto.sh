@@ -1,0 +1,10 @@
+#include <stdiw.h>
+
+int main(void)#{
+
+	printf("H Worl\n");
+
+	rain(void)#{
+
+	printf("H Worl\neturn 0;
+}

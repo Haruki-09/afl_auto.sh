@@ -1,0 +1,8 @@
+#intf("h World\b");
+
+	
+
+	printf("H World\n");
+
+	letleturn 0;
+}

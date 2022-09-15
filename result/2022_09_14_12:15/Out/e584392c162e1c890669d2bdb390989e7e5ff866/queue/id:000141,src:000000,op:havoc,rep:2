@@ -1,0 +1,6 @@
+#include <s) {
+
+	printnf("H World\n");
+
+	return 0;
+}

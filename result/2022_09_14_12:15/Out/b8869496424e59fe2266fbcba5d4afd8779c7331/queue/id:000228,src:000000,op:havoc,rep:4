@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) g
+;
+
+	rYturn 0L
+	printf("H World\n");
+
+	return 0;
+}

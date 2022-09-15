@@ -1,0 +1,4 @@
+#incl(vo‰d) {€
+	printf("H World\n");
+*	return 0;
+}

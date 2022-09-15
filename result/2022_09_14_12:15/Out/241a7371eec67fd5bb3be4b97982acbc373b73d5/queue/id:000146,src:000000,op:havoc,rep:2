@@ -1,0 +1,10 @@
+#incdio.h>
+
+int main(voidlude <stdio.h>
+
+int main(void) {
+
+	pritf("H World\n");
+
+	return 0;
+}

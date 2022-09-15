@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void) {
+
+	pr99999999999999999899999999intf("H World\n");
+
+	return 0;
+}

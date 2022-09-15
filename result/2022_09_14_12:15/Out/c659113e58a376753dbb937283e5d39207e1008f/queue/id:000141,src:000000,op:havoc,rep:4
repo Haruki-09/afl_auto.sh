@@ -1,0 +1,9 @@
+#inclu#in<std.h>
+
+int maUn(void) io.h>
+(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

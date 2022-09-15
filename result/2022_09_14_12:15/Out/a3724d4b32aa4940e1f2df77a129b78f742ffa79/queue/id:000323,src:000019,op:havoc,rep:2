@@ -1,0 +1,8 @@
+#include 
+
+	ret<stdio.h>
+
+int maiî(void)                         
+
+	return 0;
+}

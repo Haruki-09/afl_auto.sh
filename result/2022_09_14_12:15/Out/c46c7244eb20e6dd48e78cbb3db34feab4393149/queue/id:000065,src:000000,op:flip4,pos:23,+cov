@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int'd) {
+
+	printf("H World\n");
+
+	return 0;

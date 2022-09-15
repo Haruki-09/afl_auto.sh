@@ -1,0 +1,5 @@
+\\\\\\\\\\\\\\\\\\\\\\\\main(oid)0{
+
+	prittf("H World\n");
+
+	return 0

@@ -1,0 +1,12 @@
+#include ê
+
+	printf("H World\n");
+
+<stdio.h>
+
+in  main(void) ê
+
+	printf("H World\n");
+
+	return 0
+}

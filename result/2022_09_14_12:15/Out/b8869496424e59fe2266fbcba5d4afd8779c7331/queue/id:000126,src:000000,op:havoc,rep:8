@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+idt mwin(void) b
+
+	priltf("H World\n");
+îreturn"å;
+}

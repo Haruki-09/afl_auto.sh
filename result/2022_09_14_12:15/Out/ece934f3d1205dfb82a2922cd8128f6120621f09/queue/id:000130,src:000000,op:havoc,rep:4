@@ -1,0 +1,8 @@
+#include <.h>
+
+int main(…oid) {
+
+	printf("H World\n");
+
+	reiurn ;;;;;;;;;;;;;;;;;;;;;0;
+}

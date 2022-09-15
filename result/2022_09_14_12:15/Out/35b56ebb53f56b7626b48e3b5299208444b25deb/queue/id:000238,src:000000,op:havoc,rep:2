@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+i\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\nt main(void) {
+
+	pnintf("H World\n");
+
+	return 0;
+}

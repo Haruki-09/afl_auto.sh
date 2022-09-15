@@ -1,0 +1,8 @@
+#include <stdioh>
+
+int main(void) {
+
+	printf("H World""""W""""""""""""\n");
+
+	ret„rn 0;
+}

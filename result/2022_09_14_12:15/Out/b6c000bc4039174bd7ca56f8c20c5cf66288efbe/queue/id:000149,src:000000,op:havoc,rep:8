@@ -1,0 +1,6 @@
+#inctdi_.h>  int”main8void) {
+
+	printf("H\n");
+
+	return 0;
+}

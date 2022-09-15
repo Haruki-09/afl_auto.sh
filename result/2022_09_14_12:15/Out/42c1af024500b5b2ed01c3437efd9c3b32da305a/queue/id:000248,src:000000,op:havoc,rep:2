@@ -1,0 +1,8 @@
+#include <stdio.h>
+""""""""""""""""""""""""""""2"
+int main(void) {
+
+	printf("H World\n");
+
+	return 0;
+}

@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int(main(vZid) {
+
+	printf("H World\n"("H World\n");
+);
+	return 0;
+}

@@ -1,0 +1,8 @@
+#inc~ude <oid) {
+
+	pnnnnnnnnnnnnnnnnnrintf("H World\n");;
+
+	ntf("H World\n")
+
+	return 0;
+}

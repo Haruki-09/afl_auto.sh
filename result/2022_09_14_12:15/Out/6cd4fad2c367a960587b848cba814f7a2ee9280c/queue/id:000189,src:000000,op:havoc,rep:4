@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+in
+	printf("H Yorld\n")
+	return 0;
+}

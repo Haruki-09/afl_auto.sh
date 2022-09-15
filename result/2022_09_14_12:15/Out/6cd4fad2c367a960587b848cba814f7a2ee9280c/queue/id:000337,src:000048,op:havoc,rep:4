@@ -1,0 +1,8 @@
+;in;incluTe <stdio.h>
+
+int {
+#	pri main(d) {
+#	printf("H World\n");
+
+	return 0;
+}

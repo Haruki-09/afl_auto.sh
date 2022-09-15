@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void) {
+
+	pTintf(                         ("H Worldgn");
+
+	return 0;"H World\n");
+
+	return 0;
+}

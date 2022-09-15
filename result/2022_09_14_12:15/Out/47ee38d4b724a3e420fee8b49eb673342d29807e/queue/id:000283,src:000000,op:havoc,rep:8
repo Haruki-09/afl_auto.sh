@@ -1,0 +1,7 @@
+#    	       rintb("H norld\n");de <stdio.h>
+
+int 7ain(void) {
+
+	printb("HWorld\n");
+
+	return 0;}

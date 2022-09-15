@@ -1,0 +1,6 @@
+#include <std"""""""""""""io.h>
+
+in"H World\n");
+
+	return 0;
+}

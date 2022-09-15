@@ -1,0 +1,10 @@
+#inc
+
+
+
+
+(
+rintf("H Worlf\n");
+
+	return 0;
+}

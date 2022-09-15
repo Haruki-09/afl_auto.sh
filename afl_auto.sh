@@ -18,7 +18,7 @@ mkdir -p ${result_dir}/Out
 out=${result_dir}/Out
 in=${afl_auto_dir}/In
 
-echo -e "\n Please select commit id file \n" ; ls -lt ${afl_auto_dir}/commit_id
+echo -e "\n Please select commit id and date file \n" ; ls -lt ${afl_auto_dir}/commit_id
 read -p "commit id filename: " input_id && commits=${afl_auto_dir}/commit_id/${input_id}
 #read -p "commit date filename: " input_date && commit_dates=${afl_auto_dir}/commit_id/${input_date}
 
@@ -65,8 +65,15 @@ do
 	timeout ${seconds} afl-fuzz -i ${in} -o ${out}/${commit_id} -f input.c /home/kosuge/ctags-link/ctags input.c
 	
 	echo -e "\n crashes counting"
-	crashes_count=`ls ${out}/${commit_id}/crashes | wc -l`
-	#echo "${commit_id}:${crashes_count},${commit_date}" >> ${afl_crashes}
+	crashes_files=`ls ${out}/${commit_id}/crashes | wc -l`
+
+	if (($crashes_files != 0)); then
+		crashes_count=`expr ${crashes_files} - 1` #1:README.txt
+	else
+		crashes_count=${crashes_files}
+	fi
+
+		
 	echo "${commit_id}/${commit_date}/${crashes_count}" >> ${afl_crashes}
        	
 	

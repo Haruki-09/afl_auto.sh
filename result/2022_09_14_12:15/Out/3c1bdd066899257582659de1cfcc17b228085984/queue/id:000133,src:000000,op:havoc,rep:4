@@ -1,0 +1,6 @@
+#include <tdio.h>
+
+in] main(void) {
+
+	printf("H 
+}

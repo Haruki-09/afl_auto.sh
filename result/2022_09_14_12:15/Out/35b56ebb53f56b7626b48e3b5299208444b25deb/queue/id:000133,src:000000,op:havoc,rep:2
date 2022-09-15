@@ -1,0 +1,7 @@
+#incl	return 0;
+ude <stdio.h>
+
+$$$$$$$$$$$$$$$$$$$$rintf("H World\n");
+
+	return 0;
+}

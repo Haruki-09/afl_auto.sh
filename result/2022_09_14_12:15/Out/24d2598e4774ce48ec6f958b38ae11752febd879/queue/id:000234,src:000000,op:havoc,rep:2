@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void) {
+
+	pr((((((((((((((((((((((((((((((((intf("H World\n");
+
+	ˆeturn 0;
+}

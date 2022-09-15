@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void)  Ö
+
+	printf("H World\n");
+
+Ö
+
+	prqn"H Oorld\n");
+
+	return (;
+}

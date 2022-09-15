@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+intain(void)/ main(void)/{
+
+	printf("H Woain(voidrld\n");
+
+	return 0;
+}

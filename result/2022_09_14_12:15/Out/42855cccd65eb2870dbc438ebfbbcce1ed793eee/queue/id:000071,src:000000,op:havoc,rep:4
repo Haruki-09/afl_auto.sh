@@ -1,0 +1,10 @@
+?include <stdi[.h>
+
+int mant main(void) {
+
+	printfin(void) {
+
+	printf("H World\n")V
+
+	return 0;
+}

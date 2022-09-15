@@ -1,0 +1,12 @@
+ain(void) {
+
+	ntf 0;
+}
+in(void) {
+
+	ntf 0;
+}
+int main(void) {
+
+	prinntf 0;
+}
