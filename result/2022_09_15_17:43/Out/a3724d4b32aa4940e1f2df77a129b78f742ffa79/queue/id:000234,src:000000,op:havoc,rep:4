@@ -1,0 +1,8 @@
+#incl
+
+	printf(ude <stdio.h>
+
+ntf("H Wtrld\n");
+
+	return 0;
+}

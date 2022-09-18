@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(v
+id) {
+
+	printf("H WorPd\n");
+
+	return 0;
+}

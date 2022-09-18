@@ -1,0 +1,5 @@
+#include <stdio.h>
+
+inñ main(void)printf("H Wrld\n");
+
+	return 0;}

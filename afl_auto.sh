@@ -18,8 +18,8 @@ mkdir -p ${result_dir}/Out
 out=${result_dir}/Out
 in=${afl_auto_dir}/In
 
-echo -e "\n Please select commit id and date file \n" ; ls -lt ${afl_auto_dir}/commit_id
-read -p "commit id filename: " input_id && commits=${afl_auto_dir}/commit_id/${input_id}
+echo -e "\n Please select commit_id and date file \n" ; ls -lt ${afl_auto_dir}/commit_id
+read -p "FileName: " input_id && commits=${afl_auto_dir}/commit_id/${input_id}
 #read -p "commit date filename: " input_date && commit_dates=${afl_auto_dir}/commit_id/${input_date}
 
 read -p "Seconds: " sec && seconds=${sec}
@@ -31,9 +31,7 @@ touch ${result_dir}/crashes_count.log && afl_crashes=${result_dir}/crashes_count
 
 echo -e "object_id / date / crashes\n" >> ${afl_crashes}
 
-#echo -e "\n checkout orgin/master"
 cd /home/kosuge/ctags-link
-#git checkout -f origin/master
 
 while read commit
 do

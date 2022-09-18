@@ -1,0 +1,3 @@
+#include <stdio.t main(void) {
+
+	printf("H World\n")

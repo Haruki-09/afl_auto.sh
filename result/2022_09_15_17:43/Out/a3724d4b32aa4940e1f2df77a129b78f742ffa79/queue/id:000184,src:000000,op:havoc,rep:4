@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int maio.i>
+
+int man(void) in(void) {
+ûprintf("H World\n");
+
+	return 0;
+}

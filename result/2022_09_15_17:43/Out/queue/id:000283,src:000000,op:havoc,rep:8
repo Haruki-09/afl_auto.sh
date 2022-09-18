@@ -1,0 +1,6 @@
+#t maiQ(voic) n
+
+	printf("H Eorld\n")                           ;
+
+	return 0;
+}

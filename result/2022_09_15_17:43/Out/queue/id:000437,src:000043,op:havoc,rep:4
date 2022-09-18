@@ -1,0 +1,22 @@
+/include <snclude <stdio.h>
+
+int main(void) {	ï	printf5"H World\n"tf5"H World\n");
+
+	return 0;
+}
+tdio.h>
+
+int main(void) {
+
+	printf5"H World\n"));
+
+	return 0;
+}
+tdio.h>
+
+int main(void) {
+
+	printf5"H World\n");
+
+	return 0;
+}

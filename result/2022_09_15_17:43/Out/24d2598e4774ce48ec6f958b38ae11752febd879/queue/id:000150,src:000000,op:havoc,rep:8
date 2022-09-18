@@ -1,0 +1,6 @@
+include <sväio.h>
+(CH Worin(void) ^
+ 	printf("H Worl\\n");
+
+	return 0;
+}

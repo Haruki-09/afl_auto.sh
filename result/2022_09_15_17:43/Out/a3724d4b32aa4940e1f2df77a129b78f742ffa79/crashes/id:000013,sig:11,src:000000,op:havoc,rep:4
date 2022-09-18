@@ -1,0 +1,7 @@
+#include <stdio.hB
+(void) {
+
+	printf("H World\"HWorld\n");
+
+	return 0;
+}(

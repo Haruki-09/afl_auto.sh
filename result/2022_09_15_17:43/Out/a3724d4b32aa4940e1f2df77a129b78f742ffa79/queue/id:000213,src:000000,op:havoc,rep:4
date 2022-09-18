@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+ÿÿÿÿmain(void) 
+
+
+
+
+
+
+
+	(((((((((((((printf("H World\n");
+
+	return 0;
+}

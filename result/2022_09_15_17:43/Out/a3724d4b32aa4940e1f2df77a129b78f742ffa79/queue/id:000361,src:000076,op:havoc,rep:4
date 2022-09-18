@@ -1,0 +1,10 @@
+#inclu`e Kstdio.h\
+
+int maˆn(void) {
+
+	#inclu`e Kstdio.h\
+
+int maˆnprintf("H World\n");
+
+	return 0;
+}
