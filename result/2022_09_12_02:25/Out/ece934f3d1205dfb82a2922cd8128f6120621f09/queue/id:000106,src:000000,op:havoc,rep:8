@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-it maiy(void) {
-
-	printf("H Worl‚dn");
-
-	reæturn 0U
-}

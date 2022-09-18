@@ -1,7 +1,0 @@
-#iiclude <ƒtdio.h>
-rintf("H/World\n");
-
-	retf("H/World\n");
-
-	return 0;
-}

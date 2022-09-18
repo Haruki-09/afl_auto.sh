@@ -1,6 +1,0 @@
-#include <stdio.h//////3/in(void) {
-
-	printf("H WorlV\n");
-
-	return 0;
-}

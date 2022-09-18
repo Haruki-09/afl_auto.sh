@@ -1,5 +1,0 @@
-#include t main(void) {
-
-	printf("H World\n")in
-	return 0;
-}

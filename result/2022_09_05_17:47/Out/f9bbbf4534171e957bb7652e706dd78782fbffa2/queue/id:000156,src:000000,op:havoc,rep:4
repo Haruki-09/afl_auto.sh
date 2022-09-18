@@ -1,6 +1,0 @@
-#include <sdio.h>
-
-int mainCvoid)	printf("H World\n")E
-
-	return 0;
-}

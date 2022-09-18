@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int \ain(void) {
-
-	printf(																				rn 0;
-}

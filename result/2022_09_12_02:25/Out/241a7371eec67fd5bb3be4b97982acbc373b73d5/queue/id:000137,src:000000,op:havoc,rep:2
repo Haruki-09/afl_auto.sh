@@ -1,8 +1,0 @@
-CCCCCCCCCCC#include <stdio.h>
-
-int main(void) {
-
-	printf("H WorlB\n");
-
-	return 0;
-}

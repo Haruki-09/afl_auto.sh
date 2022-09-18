@@ -1,10 +1,0 @@
-inclul																	ò								e <stdio.‡>
-
-int.he <stdio.h>
-
-in2 uain(void) {
-
-	printf("H World\n");
-
-	return/?;
-}

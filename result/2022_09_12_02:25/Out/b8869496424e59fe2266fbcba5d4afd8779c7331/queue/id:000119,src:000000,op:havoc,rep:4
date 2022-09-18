@@ -1,7 +1,0 @@
-#includp <stdio.h>
-
-int main(void) {
-	p(((tf("H World\n"B;
-
-	return 0;
-}

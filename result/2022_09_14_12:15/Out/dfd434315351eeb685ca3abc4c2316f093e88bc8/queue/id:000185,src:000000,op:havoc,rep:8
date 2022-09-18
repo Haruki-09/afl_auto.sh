@@ -1,9 +1,0 @@
-#include <stdio
-	prinrintf("H WorlS\n");
-
-%tf("H WorlS\n");
-
-	printf("H WorlS\n");
-
-%re	Žeturn 0;
-}

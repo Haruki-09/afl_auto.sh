@@ -1,8 +1,0 @@
-#include <stdNx < {
-
-	.h>
-
-iÿprintf("H World\n")A
-tf("H World\n");
-	return 0;
-}

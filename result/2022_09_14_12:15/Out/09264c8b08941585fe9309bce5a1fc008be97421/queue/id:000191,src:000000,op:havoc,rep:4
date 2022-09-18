@@ -1,7 +1,0 @@
-#includeÿstdio.h>
-
-int oain(void) {
-
-printf("H World\n");#
-	return 0;
-}

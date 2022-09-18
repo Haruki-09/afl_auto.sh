@@ -1,9 +1,0 @@
-#include <	\\\\\\\main(void) {
-
-	printf("H W
-int main(void) {
-
-	printf("H World\n");
-
-	return 0;
-}

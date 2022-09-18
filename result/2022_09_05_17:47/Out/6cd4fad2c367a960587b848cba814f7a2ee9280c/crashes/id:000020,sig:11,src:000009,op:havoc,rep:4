@@ -1,9 +1,0 @@
-#include <stdi/.h>
-
-int main(void) {
-ÿ	prŒntf("H World\n");
-
-	return 0;
-}main(void) {
-
-	prŒnt1(

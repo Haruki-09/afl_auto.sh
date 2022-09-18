@@ -1,9 +1,0 @@
-#include <stdio.h>
--i( {
-
-	printÿ"H World\n""H Wor}Q maiŒ(void) {
-
-	printM("H World\n");
-
-	return 0;
-}

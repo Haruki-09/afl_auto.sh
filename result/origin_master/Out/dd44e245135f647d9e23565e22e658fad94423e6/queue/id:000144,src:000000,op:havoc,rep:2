@@ -1,6 +1,0 @@
-#include <d) {
-
-	pTintf("H World\n");
-
-	return 0;
-}

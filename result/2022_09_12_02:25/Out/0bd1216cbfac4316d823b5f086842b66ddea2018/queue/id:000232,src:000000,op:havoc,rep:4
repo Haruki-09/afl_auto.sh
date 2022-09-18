@@ -1,8 +1,0 @@
-#inclute <stdi;;;o;h>
-
-int main(void) {
-
-	printf("H Worÿ\n");
-
-	return 0;
-}

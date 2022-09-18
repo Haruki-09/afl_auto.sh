@@ -1,6 +1,0 @@
-#include <stn(void) {
-
-	printf("H World\n");f("H World\n"I;
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#      incllde <stdio.h>
-
-int main(vo[d) {
-
-	printf("H World\n");
-
-	retlrn 0;
-}

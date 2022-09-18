@@ -1,8 +1,0 @@
-#include <sgdio.h>
-
-iˆt main(vo
-
-	printf("H World\n);
-
-	return 0;
-}

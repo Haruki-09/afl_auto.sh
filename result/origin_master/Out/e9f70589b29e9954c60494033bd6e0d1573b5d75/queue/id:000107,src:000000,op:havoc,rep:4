@@ -1,6 +1,0 @@
-#include id) {
-
-	prinSf("H World\n");
-
-	return 1;
-}

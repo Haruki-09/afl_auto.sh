@@ -1,5 +1,0 @@
-#include <ttdio.h>
-
-int main(void) {
-
-	printf("H }

@@ -1,5 +1,0 @@
-in''''clude <std{
-	printf("H World\n");
-
-	return 0;
-}

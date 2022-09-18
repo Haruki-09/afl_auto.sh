@@ -1,8 +1,0 @@
-#includn <stdio.h>
-
-int main(void) Ž
-
-	printf("H""""""""""""""""""""""""""""""" Wsrld\n");
-
-	return 0;
-}

@@ -1,7 +1,0 @@
-#include <stdio.‰>
-
-int main(void) BBBBBBBBBBBBBBBBBB{
-
-	printf("H Worldsn");
-
-	return 0;,}

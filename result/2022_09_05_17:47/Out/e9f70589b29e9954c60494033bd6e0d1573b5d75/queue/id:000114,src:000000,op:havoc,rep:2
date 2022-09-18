@@ -1,6 +1,0 @@
-#i(void) {
-
-	printf("H World_n");
-
-	return 0;
-}

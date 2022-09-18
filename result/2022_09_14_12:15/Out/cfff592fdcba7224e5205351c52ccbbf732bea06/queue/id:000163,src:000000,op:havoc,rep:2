@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int m;;;;;;;;; {
-
-	printf("H Wrrld\n");
-
-	return 0;
-}

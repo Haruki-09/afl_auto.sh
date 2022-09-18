@@ -1,8 +1,0 @@
-#smain(vohd) {
-
-	printf(:H World\n");
-
-	return 0;
-}) {
-
-	printf(H World\n")

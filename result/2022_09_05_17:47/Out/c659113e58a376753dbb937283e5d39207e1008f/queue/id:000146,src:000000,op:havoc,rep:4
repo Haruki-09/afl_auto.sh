@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int mlin(soid) nt mlrintf("H World\n");
-
-	return 0;
-}

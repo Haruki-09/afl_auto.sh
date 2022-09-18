@@ -1,8 +1,0 @@
-#i>
-
-int main(void) {
-
-	printf("Hn");
-
-	return 0;
-}

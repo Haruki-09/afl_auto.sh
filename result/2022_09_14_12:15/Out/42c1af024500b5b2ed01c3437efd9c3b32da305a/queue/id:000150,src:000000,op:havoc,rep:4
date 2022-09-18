@@ -1,7 +1,0 @@
-#include <stdio.h>m
-int maiŒ(void) {
-
-	tf("H ");
-
-	return 0;
-}

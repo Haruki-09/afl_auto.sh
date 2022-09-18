@@ -1,8 +1,0 @@
-#include <stdio.hH
-
-int mvoid) {
-
-	printf(€H World\n"d\n");
-
-	meturn 0;
-}

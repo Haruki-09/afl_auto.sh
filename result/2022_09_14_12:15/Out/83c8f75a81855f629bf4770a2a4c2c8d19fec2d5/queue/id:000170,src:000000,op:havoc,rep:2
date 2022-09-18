@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int m€in(void) {
-
-	printf("H Wor\\\\\\\\\\\\\\ld\n");
-
-	return 0;
-}

@@ -1,6 +1,0 @@
-#indlude*<stdiod) id) k
-
-	prinvf("H Wor,d\n");
-
-	return 0;
-}

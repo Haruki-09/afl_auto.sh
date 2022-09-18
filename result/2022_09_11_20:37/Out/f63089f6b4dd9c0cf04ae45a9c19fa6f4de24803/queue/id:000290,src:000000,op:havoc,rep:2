@@ -1,8 +1,0 @@
-#include <std'''io.h>
-
-int main(void) {
-
-	printf("H WorlZ\n");
-
-	return 0;
-}

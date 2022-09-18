@@ -1,6 +1,0 @@
-#include <s9dio.^>
-
-(voiintf(
-                               
-	return 0;
-}

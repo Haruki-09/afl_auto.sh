@@ -1,9 +1,0 @@
-#
-intinclud{ <stdio.h>
-
-int main(void) {
-
-	printf("H WOrld\n6);
-
-	return 0;
-}

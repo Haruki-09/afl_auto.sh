@@ -1,6 +1,0 @@
-#			main(void) {
-
-	pintf("H World\n");
-
-	redurn 0;
-}

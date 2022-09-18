@@ -1,8 +1,0 @@
-#include <stdi;;;;;;;;;;;;;;;;;;;;;;;;;;o.h>
-
-int main(void) {
-
-	printf("H WoQld\n");
-
-	return 0;
-}

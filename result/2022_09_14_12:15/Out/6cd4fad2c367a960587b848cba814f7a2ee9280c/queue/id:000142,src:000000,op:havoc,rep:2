@@ -1,8 +1,0 @@
-#includd) {
-
-	printf("H World\n");
-
-	r	printf("H World\n");
-
-	return 0;
-}

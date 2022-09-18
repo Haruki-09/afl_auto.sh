@@ -1,5 +1,0 @@
-#include><stdint4main(void) {
-
-	printf("H WErUd\n")
-	return 0;
-}

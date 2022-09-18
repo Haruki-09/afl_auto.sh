@@ -1,6 +1,0 @@
-#inc {
-
-	prSntf("H Worldn");
-
-	return 0;
-}

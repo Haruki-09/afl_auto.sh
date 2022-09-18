@@ -1,8 +1,0 @@
-#include <std;;;;;;;
-int ;;;;
-int main(void) {
-
-	printf("ffforld\n");
-
-	return 0;
-}

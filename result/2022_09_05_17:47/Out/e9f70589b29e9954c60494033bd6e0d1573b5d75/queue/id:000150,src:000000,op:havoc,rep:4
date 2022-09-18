@@ -1,6 +1,0 @@
-#lude <stdio.h>
-
-int main(void) \u	printf("H World\n");
-
-	return 0;
-}

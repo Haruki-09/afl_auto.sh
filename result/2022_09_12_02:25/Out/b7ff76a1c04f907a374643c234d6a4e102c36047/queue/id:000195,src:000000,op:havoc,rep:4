@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int mvin(void)            {
-
-	printfÿÿÿWorlL\n");
-
-	return 0;
-}

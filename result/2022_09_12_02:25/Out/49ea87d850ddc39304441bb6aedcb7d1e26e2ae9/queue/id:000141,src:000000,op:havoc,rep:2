@@ -1,6 +1,0 @@
-#include Estdio.h>
-
-int main(v########	printf("H World\n");
-
-	return 0;
-}

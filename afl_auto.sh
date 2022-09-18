@@ -68,7 +68,7 @@ do
 	if (($crashes_files != 0)); then
 		crashes_count=`expr ${crashes_files} - 1` #1:README.txt
 	else
-		crashes_count=${crashes_files}
+		crashes_count=$((crashes_files))
 	fi
 
 		

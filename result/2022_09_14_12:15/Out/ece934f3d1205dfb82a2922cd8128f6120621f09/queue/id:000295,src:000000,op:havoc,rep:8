@@ -1,8 +1,0 @@
-#include Ustdio.h>
-
-in~<main(//////////////////////void) {
-
-	pri’f("H uorld\n");
-
-	return 0;
-}

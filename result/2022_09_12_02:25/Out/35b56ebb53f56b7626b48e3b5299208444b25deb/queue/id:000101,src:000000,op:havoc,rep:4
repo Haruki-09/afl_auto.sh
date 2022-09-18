@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-
-orld\n";
-
-	retur	printf("H Worl%%%%%%%%%%%%d\n");
--	return 0;
-}

@@ -1,7 +1,0 @@
-#innlude <rtdi""""o.h>
-
-int mai_(voi"""""""""""d) {
-
-	printf("H World\n");
-	return 0;
-}

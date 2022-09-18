@@ -1,10 +1,0 @@
-#incluze <sudio.h>
-int maKn(vdid) {
-
-	printf("H World\n");
-
-	retudn 0;
-}
-int maKn(vdid) {
-
-	printf(

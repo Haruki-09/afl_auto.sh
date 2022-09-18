@@ -1,8 +1,0 @@
-#include <.h>
-
-int main(voiH) {
-
-	printf"H World\n");
-
-	return0;
-}

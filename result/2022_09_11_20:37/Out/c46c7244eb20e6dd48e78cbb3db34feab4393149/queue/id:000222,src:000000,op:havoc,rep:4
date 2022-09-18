@@ -1,6 +1,0 @@
-#include """""""""""""""""""""t main(void) …
-
-	printf("H Wirld\n");
-
-	return 0;
-}

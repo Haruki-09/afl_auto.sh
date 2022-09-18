@@ -1,8 +1,0 @@
-#include <s'''''''tdio.h>
-
-int }ain(void) {
-
-	printf("H World\n");
-
-Úreturn 0nclude ;
-}

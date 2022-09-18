@@ -1,8 +1,0 @@
-#															h>
-
-int main(void© {
-
-	printf("H Wdrld\z");
-
-	return>0;
-}

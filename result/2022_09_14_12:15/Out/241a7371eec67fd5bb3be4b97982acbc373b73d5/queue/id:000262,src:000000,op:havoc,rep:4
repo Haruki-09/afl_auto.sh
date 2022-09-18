@@ -1,9 +1,0 @@
-#Šnclude =stdio.h>
-
-int main(void) i
-
-
-printf("H World\n");
-
-	return 0;
-}

@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-bnt main(void) zó
-	printf("H World\n");
-
-lrintf("H World\n");
-
-	return 0;
-}

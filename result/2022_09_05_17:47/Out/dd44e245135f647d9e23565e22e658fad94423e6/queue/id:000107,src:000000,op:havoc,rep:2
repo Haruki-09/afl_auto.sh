@@ -1,6 +1,0 @@
-#inc                           id) {
-
-	printf("H World\n");
-
-	return 0;
-}

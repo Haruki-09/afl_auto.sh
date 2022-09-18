@@ -1,8 +1,0 @@
-#inAlude <stdio.h>
-
-int main(v) {
-
-	printf(H Worl\n");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#incl>
-
-int  ain(void) {
-
-	pr  orld\n");
-
-	return 0;
-}

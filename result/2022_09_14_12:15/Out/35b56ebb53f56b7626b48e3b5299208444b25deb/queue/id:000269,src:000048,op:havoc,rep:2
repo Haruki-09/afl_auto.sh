@@ -1,6 +1,0 @@
-#include <stdio.hmain(void)/{
-
-	printf("H World\n")                     ;
-
-	return 0;
-}

@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int main(void) {((((((((("H World\n");
-
-	return 0;
-}

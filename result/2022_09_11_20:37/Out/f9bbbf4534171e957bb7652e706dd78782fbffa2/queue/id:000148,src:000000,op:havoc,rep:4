@@ -1,7 +1,0 @@
-#include <stdio.hV
-
-int main(void) Z
-
-	printf("H World\n");
-÷	return 0#
-}

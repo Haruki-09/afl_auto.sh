@@ -1,8 +1,0 @@
-#in.h>
-
-int main(voidclude <stdio.h>
-
-int ma	printf("H World\n");
-
-	return 0;
-}

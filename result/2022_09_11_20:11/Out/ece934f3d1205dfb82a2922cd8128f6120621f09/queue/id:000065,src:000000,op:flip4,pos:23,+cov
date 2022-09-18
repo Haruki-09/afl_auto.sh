@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int'íain(void) {
-
-	printf("Hello World\n");
-
-	return 0;
-}

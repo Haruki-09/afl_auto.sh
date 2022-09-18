@@ -1,7 +1,0 @@
-#include <<stdio.h>
-
-iin(void) {
-	pr.......intf("H World\Å");
-
-	return 0;
-}

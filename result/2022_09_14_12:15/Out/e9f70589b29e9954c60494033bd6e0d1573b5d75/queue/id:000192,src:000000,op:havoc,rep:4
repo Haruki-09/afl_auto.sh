@@ -1,8 +1,0 @@
-#include <stdio(h>io(h>
-
-int main(void) {
-
-	p("H\n");
-
-																return 0;
-}

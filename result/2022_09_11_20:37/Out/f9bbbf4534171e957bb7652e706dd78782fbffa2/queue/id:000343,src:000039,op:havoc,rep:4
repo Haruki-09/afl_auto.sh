@@ -1,5 +1,0 @@
-intf(*H #include <stdio.hd) {
-
-	printf(*H Wor
-	printf(*H WorLd\n"0;
-}

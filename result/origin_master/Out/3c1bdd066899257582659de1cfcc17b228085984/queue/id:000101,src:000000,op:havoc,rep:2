@@ -1,6 +1,0 @@
-#include <st…io.h>
-
-int main(void)ntf("H World\n");
-
-	return 0;
-}

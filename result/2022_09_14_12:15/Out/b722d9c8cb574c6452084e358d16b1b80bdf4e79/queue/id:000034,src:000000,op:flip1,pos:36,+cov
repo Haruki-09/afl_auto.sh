@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(void) {J
-	printf("H World\n");
-
-	return 0;
-}

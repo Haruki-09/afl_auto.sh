@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int mai(void) {
-
-	print}("H World\n");
-
-	return 0;
-}

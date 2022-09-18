@@ -1,7 +1,0 @@
-#include <stdio.h>
-int miiÿÿÿid) {
-                    
-	printf("H World\n");
-
-	return 0;
-}

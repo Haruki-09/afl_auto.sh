@@ -1,8 +1,0 @@
-#inccude <stdio.h>
-
-„nu mkin(void) {
-
-	printf("H World\n"																															);
-
-	ÿ€turn—0;
-}

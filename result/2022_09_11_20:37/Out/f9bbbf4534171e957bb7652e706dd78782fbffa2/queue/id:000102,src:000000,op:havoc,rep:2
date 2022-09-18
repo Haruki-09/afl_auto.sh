@@ -1,6 +1,0 @@
-#include-------------------------- {
-
-	priZtf("H World\n");
-
-	return 0;
-}

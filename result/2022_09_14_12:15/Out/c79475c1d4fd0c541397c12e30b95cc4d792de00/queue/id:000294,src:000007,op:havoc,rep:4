@@ -1,8 +1,0 @@
-#include{
-
-	printf("H"""""""""""""""" |stdiovoid) {
-
-	priVtf("H""""""""""""""""""""""""" World\n");
-
-	return 0;
-}

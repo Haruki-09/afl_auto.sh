@@ -1,5 +1,0 @@
-#include <htdio.h>
-
-int maiê(void) {
-
-	priòtf(

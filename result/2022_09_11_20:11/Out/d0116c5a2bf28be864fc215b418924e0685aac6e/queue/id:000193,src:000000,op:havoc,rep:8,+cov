@@ -1,9 +1,0 @@
-#include stdiohX
-lntt main(void) {
-
-	pri‘tf("H World\n");
-
-	return 0;
-} main(void) {
-
-	pri‘tf("H Wo

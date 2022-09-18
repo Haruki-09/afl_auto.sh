@@ -1,5 +1,0 @@
-#include RRRRRn(void) {
-
-	print													f("H World\n");
- 	return 0;
-}

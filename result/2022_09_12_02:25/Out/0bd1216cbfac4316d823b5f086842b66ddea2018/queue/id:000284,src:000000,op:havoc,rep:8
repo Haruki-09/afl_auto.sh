@@ -1,7 +1,0 @@
-#include <stdio#h>Ã
-into#h>Ã
-int mVin(void) main(void) {
-
-	printf("H WorlR\n");(
-#return 0;
-}

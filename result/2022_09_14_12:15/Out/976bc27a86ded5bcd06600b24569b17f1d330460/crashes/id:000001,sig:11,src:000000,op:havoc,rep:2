@@ -1,5 +1,0 @@
-#include <stdio.L>
-
-int main(void) {
-
-	printf(

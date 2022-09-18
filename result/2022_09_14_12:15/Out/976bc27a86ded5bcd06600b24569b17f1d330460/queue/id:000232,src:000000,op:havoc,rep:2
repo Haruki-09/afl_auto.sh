@@ -1,8 +1,0 @@
-#includl <stdio.h>
-
-int main(void) {
-
-	prin{{{{{{{{{{{{{{{{{{{{{{{{{{{tf("H World\n");
-
-	return 0;
-}

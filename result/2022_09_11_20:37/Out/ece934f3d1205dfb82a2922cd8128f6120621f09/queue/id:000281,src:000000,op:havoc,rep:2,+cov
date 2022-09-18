@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int mainGvoid) {////rintf("H World\n");
-
-	return 0;
-}

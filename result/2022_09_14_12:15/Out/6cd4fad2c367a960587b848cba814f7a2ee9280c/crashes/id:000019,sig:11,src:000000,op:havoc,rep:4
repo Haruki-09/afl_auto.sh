@@ -1,9 +1,0 @@
-#include <smdio.h>
-((((((((((((((((((((((((((((((((
-int main(void) {
-
-	printf("H World\n");
-
-	return 0;
-}#injlude <smdio.h>
-(((

@@ -1,6 +1,0 @@
-#incld) {
-
-	prXntf("H World\n");
-
-	return 0;
-}

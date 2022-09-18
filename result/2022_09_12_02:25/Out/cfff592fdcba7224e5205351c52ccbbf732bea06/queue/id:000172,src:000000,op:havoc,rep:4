@@ -1,8 +1,0 @@
-#include <sf("H Wor@d\n");
-
-(void) {
-
-	printf("H Wor@d\n");
-
-	return 0;
-}

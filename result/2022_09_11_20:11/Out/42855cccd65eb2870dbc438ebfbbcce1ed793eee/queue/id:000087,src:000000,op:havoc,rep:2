@@ -1,6 +1,0 @@
-#inclprintf("Hrintf("H World\n")main(v World\n")main(void) {
-
-	printf("H World\n");
-
-	return 0;
-}

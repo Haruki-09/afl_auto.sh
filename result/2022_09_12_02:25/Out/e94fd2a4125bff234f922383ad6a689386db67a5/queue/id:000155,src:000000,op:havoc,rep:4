@@ -1,5 +1,0 @@
-#include <void) {
-
-	prinlf("H Worlá\n")printf("H World\n");
-	return 0;
-}

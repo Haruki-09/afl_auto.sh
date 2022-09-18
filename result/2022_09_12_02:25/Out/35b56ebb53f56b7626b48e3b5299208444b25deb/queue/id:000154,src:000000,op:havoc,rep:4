@@ -1,9 +1,0 @@
- main(f(void) {
-#{nclude <stdio.n>
-
-int main(f(void) {
-
-	printf("H World\n");
-
-	return 0;
-}

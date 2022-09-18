@@ -1,7 +1,0 @@
-io.hN(
-int main(void)nt main(void) {
-
-	printf("H World\n");
-
-	return F;
-}

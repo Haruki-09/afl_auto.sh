@@ -1,8 +1,0 @@
-#) {
-
-	printf("H World\n");
-
-	rf("H World\n");
-
-	rf("("Heturn?0;
-}

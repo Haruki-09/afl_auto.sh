@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(void) eeeeee{
-
-	printf(#H World\n€);
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#includ€ <stdio.h>
-
-int main(void) 
-
-int	printf("H Worl World\n");
-
-üreturn 0;
-}

@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int maiw(void) {
-
-	printf("H n");
-
-	return 0;
-}

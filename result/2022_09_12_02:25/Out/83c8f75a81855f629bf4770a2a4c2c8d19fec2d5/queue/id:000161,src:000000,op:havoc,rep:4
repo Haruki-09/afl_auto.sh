@@ -1,8 +1,0 @@
-#include %stdio.h>
-
-int mDin(void) {
-
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#includprintf("H World\n");
-
-	return 0;
-}

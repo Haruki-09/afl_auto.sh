@@ -1,8 +1,0 @@
-#include <std""""""""""3""""""""""""ioIh>
-
-int main(void) {
-
-	printf("H World\n"û;
-
-	return 0;
-}

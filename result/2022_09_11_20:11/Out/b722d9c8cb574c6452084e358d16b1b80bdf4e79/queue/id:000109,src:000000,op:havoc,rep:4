@@ -1,9 +1,0 @@
-#include <std.h>
-int main(void) io.h>
-
-int main(vo‰d) {
-
-	printf("H Worlr\n");
-
-	return 0;
-}

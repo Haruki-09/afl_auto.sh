@@ -1,6 +1,0 @@
-#inclu?e <stdi""""""""""main(void) {
-
-	rr_ntf("H World\n");
-
-	Retur~ 0;
-}

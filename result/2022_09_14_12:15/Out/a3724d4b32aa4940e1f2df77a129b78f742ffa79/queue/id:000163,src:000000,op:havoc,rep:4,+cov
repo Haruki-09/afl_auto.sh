@@ -1,6 +1,0 @@
-#include <stdimain(void) {
-
-	püintf("H World\""H World\n");
-
-	re 0;
-}

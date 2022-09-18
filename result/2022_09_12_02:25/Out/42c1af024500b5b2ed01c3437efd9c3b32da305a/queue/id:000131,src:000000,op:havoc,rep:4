@@ -1,6 +1,0 @@
-#includ} <sntf("H World\n");
-f("H World\n");
-
-	Tet
-	return 0;
-}

@@ -1,7 +1,0 @@
-#include <stdio.h>
-	printf("H World\n");
-
-	tfitf("H World\n"("H Worldè");
-
-	return 0;
-}

@@ -1,6 +1,0 @@
-#oid) {
-
-	printf("Hld\n");
-
-	return 0;
-}

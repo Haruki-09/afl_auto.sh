@@ -1,9 +1,0 @@
-#include("Htdio.h\
-
-in(void) {
-
-	prreturn 0;
-}t main(void) {
-
-	prreturn 0;
-}

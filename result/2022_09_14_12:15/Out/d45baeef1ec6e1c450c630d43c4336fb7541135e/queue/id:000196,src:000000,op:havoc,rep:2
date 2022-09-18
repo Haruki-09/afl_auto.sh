@@ -1,5 +1,0 @@
-#include <stdio.h>'''''''''''''''''''
-	prnntf("H World\n");
-
-	return 0;
-}

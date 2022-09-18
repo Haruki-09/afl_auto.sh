@@ -1,7 +1,0 @@
-#in#lude <stdio.h>''''''''''''''''''''''''''''''
-
-int maPn(void) {
-	printf("H World\n");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#iîElude <sti
-i {
-
-	printx("H World\n");
-int("H World\n");
-
-	return0;
-}

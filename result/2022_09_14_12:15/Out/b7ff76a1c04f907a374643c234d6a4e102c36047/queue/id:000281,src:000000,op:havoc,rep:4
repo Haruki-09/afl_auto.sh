@@ -1,6 +1,0 @@
-#incvude <stdio.h>
-
-int bain(void) {þ		printf("H World\n");
-
-	return 0;
-''''''}

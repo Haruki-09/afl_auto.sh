@@ -1,6 +1,0 @@
-$$$$$$$$$#include <s$#include <stdio.a>
-
-in] mainrintf("H World\n");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int mlin(d) {
-
-	printf("H Worlorld\n");
-
-	return 0;
-}

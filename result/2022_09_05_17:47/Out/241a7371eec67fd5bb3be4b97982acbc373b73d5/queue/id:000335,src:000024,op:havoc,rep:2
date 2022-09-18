@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-\\\\\\\\\\\\\\\\\\\\\\\\f("H Qorld\n");
-
-	return 0;
-}

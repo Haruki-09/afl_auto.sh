@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int 00000000000000main(void) {
-
-	printf("H Wointf("H Wrld\n");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#znclude <stdio.h>
-
-int man(void) {(((((((((
-
-	pnintf("H World\n");
-
-	return 0;
-}

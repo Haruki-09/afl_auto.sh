@@ -1,6 +1,0 @@
-#include ||||||p||||int main(void) {
-
-	psintf("Hello World\‚");
-
-	return 0;
-}

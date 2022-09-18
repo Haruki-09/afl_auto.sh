@@ -1,6 +1,0 @@
-#~nclude <> 
-int main(void) {ç
-	printf("H World\n");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-
-	pr        intf("H @orld\n");
-
-	return 0;
-}

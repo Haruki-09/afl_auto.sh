@@ -1,9 +1,0 @@
-#include <stdio.h>
-ğint main(void) {
-
-	prif("H World\n");
-
-	rtf("H World\n");
-
-	return ÿ;
-}

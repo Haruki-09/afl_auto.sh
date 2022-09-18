@@ -1,8 +1,0 @@
-#include <tdio.h>
-
-int main(void) {
-
-	pintf("Hld\n");
-"""""""""""
-	return 0*
-}

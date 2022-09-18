@@ -1,6 +1,0 @@
-#                          include <stdio.h>
-
-int main(v›id) {
-
-	printf("H World\ã");ÿÿÿeturn 0;
-}

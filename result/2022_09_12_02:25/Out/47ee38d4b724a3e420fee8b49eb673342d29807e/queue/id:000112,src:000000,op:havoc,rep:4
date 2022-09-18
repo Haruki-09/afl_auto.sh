@@ -1,8 +1,0 @@
-#inn(void) {
-
-	print			f("H World\n
-
-	ret");
-
-	return 0;
-}

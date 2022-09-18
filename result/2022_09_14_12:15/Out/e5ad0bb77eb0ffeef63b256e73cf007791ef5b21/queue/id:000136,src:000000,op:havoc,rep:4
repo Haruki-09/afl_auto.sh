@@ -1,8 +1,0 @@
-#include <stdio. >
-
-int main(void) {
-
-	printf("H World\‘");
-
-	ret                              urn 0;
-}

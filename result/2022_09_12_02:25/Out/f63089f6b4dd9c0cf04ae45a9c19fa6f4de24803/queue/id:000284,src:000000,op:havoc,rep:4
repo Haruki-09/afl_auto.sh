@@ -1,8 +1,0 @@
-#incjude <stdio.h>
-
-int main(void)  W
-	 ;
-ntf("H World\n");
-
-	return 0;
-}

@@ -1,5 +1,0 @@
-#include <stio.e>
-
-int main(void)
-
-	return 0

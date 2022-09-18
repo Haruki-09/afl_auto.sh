@@ -1,7 +1,0 @@
-#include <stdiì.h>
-
-int main(void////////////////////////////////) {
-
-	prwntf("H World\n");
-	îreturn 0;
-}

@@ -1,8 +1,0 @@
-(inc											) { <stdio.h>
-
-ièt m[in(voii) {
-
-	printf("H World\n");
-
-	retura 0;
-}

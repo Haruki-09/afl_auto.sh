@@ -1,8 +1,0 @@
-#include <ntdio.h>
-
-int main(void) {
-
-	pridtf("H World\");
-
-	return 0;
-}

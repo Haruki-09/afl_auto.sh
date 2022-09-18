@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int main(void)tf("H Wrld\n");
-
-	return 0;
-}

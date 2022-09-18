@@ -1,5 +1,0 @@
-#included) {
-
-	printf("H World\n");
-	return 0;
-}

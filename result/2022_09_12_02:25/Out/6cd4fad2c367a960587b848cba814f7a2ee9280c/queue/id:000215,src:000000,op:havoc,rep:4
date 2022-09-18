@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int vain(void)Os
-
-	printf("H World\n");
-
-	return 0;
-|

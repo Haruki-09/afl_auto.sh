@@ -1,8 +1,0 @@
-#include <std}o@h>
-
-int main(void) {
-
-	printf("H W\\\\Y\\\\\\\\\\\\\\\\\\\\orld\n");
-
-	return 0;
-}

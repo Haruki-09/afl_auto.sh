@@ -1,9 +1,0 @@
-#include <dio2h>
-
-inintmain(void)
-
-
-pr;
-
-	return 0;
-}

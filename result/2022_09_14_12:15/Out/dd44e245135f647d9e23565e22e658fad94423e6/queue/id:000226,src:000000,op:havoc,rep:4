@@ -1,8 +1,0 @@
-#include <stdio.h>\\\\\\\\\\\\
-
-int ma@(void) {
-
-	printf("H World\n");
-
-	return 0;
-}

@@ -1,9 +1,0 @@
-#inclun(void {
-
-	prin0f(=H World\
-iat main(void {
-
-	prin0f("H World\n");
-
-	return 0I
-}

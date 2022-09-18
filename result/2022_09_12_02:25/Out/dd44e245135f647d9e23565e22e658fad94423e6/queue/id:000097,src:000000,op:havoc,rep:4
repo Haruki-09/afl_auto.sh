@@ -1,6 +1,0 @@
-#include <ctdio.h>
-
-int main(v) {	ø	printf("H Gorld\n");
-
-	return 0;
-}

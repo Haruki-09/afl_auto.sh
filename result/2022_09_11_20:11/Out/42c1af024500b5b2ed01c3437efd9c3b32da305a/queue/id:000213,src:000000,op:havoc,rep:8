@@ -1,8 +1,0 @@
-€`nclude (stdn(vo‹d) {
-
-	p("H World\n");
-
-rintf("H World\n");
-
-	rettrn 0;
-}

@@ -1,7 +1,0 @@
-#include ´{
-
-	printf("H World\n");
-
-	n 0;
-return 0;
-}

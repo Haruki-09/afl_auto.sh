@@ -1,6 +1,0 @@
-#include |stdio.||||||| main(oid) {
-
-prNntf("H World\n");
-
-	return 0;
-}

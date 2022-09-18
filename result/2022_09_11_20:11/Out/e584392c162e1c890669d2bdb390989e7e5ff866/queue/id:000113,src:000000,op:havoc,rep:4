@@ -1,8 +1,0 @@
-#incWudeH<stdio.h>
-
-int main(void) {
-
-	printf("H\n");
-
-	return 0;
-}

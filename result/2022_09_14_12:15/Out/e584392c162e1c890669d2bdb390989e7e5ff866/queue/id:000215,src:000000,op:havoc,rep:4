@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-
-((((((((((((((dddddddddddddddddddddintf("H Worle\n");
-
-	return 0;
-}

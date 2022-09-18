@@ -1,7 +1,0 @@
-#include <stdiq.h>
-
-intÿain(void) {
-*	printf("Hn");
-
-	return 0;
-}

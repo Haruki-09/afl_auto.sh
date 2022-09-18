@@ -1,4 +1,0 @@
-#include <s)	{
-
-	printf("H World\n");	è	return 0;
-}

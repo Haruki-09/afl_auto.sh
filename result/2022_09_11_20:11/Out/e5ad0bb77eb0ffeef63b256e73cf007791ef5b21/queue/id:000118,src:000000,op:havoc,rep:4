@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(voio) r
-
-	pintf("0 World\n");
-
-	return 0;
-}

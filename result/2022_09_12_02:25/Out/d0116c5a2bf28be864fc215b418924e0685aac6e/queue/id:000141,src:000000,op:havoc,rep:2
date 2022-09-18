@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(poid) {
-
-	printf("H World\n");
-
-	return 000000000000000000000000000;
-}

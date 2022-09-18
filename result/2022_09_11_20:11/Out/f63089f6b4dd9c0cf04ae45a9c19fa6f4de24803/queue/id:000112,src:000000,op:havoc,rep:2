@@ -1,9 +1,0 @@
-#i){
-
-	printf("H World\n");
-void) {
-
-	printf("H World\n");
-
-	return 0;
-}

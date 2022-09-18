@@ -1,6 +1,0 @@
-#iXclude <stdio.h>
-
-int main(void) {
-
-	printf(2H World\intf(2H World\n"
-}

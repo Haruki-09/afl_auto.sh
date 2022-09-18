@@ -1,6 +1,0 @@
-#inc) {
-
-	printf("H World\n")5
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#includeintf("H World\n"Åain(void) {
-
-	pririntf("H World\n");
-
-	return ntf("H World\n");
-
-	return ;
-}

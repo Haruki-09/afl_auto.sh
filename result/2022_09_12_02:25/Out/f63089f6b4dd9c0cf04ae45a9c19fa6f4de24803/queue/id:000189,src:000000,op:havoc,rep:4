@@ -1,3 +1,0 @@
-#incPude <stdio.h>
-printf("H World\n");printf("H World\n\n");printf("H "\n\n"return 0;
-}

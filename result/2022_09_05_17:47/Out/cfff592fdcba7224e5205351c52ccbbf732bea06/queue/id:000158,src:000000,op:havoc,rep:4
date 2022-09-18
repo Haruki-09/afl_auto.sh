@@ -1,5 +1,0 @@
-#inc<nt main(void) {
-
-	printf("H World\n")J
-J	return 0;
-}

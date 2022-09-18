@@ -1,8 +1,0 @@
-#include <st|io.P>
-
-int main(void) lú
-	printf("H World\n");etuú
-	Šrintf("H World\t");
-
-	retrn 0;
-}

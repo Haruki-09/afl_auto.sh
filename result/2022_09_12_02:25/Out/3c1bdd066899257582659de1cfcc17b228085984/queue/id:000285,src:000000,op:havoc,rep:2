@@ -1,6 +1,0 @@
-#include <stdio.{
-
-	printf("H World\n");rintf("H World\n");
-
-	return ;
-}

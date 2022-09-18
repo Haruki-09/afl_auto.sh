@@ -1,8 +1,0 @@
-#inco.h> <stdio.h>
-
-int main(void) \\\\\\\\\{
-
-	printf("H W@rld\n");
-
-	return 0;
-}

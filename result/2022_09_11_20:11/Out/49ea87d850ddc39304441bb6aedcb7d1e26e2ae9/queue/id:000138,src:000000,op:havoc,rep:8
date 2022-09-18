@@ -1,8 +1,0 @@
-#include o[[[[[[[[[[[[[[[[[[[[);<stdio.h>
-
-int m?in(void) {
-
-	printf("H Zorld\n");
-
-((((((((((	return 0;
-}

@@ -1,7 +1,0 @@
-#include <s‘dio.h>
-
-int ma(((((((((((
-	printf("H World\n");
-
-	return 0;
-}

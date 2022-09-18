@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-i@t main(v                  ÿ  oid) {
-
-	printf("H World\n");
-
-	retuan 0;
-}

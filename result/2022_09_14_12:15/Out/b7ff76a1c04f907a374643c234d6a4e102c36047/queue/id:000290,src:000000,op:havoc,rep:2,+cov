@@ -1,5 +1,0 @@
-#include <stdio.h>
-////////////////intf("H World\////////////intf("H World\n");
-
-	return 0;
-}

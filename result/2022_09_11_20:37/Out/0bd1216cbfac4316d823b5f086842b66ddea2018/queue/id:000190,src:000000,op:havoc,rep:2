@@ -1,6 +1,0 @@
-#include oid) {
-
-	printf("H World\n");	printf("H World\h");
-
-	return 0;
-}

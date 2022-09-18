@@ -1,8 +1,0 @@
-#incluprintf("H World\n");
-
-re…trn 0de <stdio.h>
-
-i~("H W]rld\n");
-
-return 0;
-}

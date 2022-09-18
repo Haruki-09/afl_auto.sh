@@ -1,8 +1,0 @@
-#d) {
-
-	printf("Hello World\ninclude <stdio.h>	òint main(void) {
-
-	printf("Hello World\n");
-
-	return 0;
-}

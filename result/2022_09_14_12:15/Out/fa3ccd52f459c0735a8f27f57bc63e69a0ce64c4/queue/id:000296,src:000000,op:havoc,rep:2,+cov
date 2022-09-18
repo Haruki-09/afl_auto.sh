@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-i//////////////////////////////nt main(void) {
-
-	printf("H d\n");
-
-	return 0;
-}

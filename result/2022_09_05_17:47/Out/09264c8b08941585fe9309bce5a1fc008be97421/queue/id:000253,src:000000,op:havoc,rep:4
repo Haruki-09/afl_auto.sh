@@ -1,6 +1,0 @@
-#include <stdio.'''''nt maiM(void) {
-
-	printf(gH World\n");
-
-	return0;
-}

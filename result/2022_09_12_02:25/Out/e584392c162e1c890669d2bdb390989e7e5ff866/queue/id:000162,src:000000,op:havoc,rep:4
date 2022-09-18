@@ -1,8 +1,0 @@
-#include <stdi~.h>
-
-int ]ain(void) {
-
-	prinmf                              ("H World\n");
-
-	return 0;
-}

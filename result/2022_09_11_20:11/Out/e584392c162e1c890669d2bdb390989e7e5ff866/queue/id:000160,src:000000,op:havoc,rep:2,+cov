@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-
-	printf("H>World\");
-
-	return 0;
-}
-

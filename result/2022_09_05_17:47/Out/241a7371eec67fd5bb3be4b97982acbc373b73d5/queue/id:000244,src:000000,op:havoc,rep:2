@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(koid) {
-
-	printf("H W\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\orld\n");
-
-	return 0;
-}

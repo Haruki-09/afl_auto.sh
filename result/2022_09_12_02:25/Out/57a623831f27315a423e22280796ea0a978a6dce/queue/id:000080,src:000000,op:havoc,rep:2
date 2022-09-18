@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int maint main(void) [
-
-	printf("d\n");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#include <stdioh>
-
-int maain(void) {
-
-	prntf("H World\n");
-
-	return ;
-}

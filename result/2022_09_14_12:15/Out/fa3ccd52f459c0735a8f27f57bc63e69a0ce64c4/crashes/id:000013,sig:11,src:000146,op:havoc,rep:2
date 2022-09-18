@@ -1,8 +1,0 @@
-#include <stdionh>
-
-inb main(void) {
-
-	pr‰T("H World\n");
-
-	rn 0;
-}main(void)

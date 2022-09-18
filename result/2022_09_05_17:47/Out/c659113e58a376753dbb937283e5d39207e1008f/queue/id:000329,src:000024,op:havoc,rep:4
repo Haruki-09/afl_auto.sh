@@ -1,8 +1,0 @@
-#invlTde <stdio.Š>
-
-int main(vo)d                               ) {
-
-	printf("H World\n");
-
-	return 0;
-}

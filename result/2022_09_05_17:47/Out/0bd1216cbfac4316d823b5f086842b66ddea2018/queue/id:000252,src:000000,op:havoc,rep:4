@@ -1,8 +1,0 @@
-#include +stdio.h>
-
-int ma^n(void) {
-
-																							pri@tf("H World\n");
-
-	return 0;
-}

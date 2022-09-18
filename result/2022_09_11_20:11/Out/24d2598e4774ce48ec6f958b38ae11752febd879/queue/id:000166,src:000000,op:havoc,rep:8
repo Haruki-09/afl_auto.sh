@@ -1,6 +1,0 @@
-,inih{f("H World\n" ;
-÷retn(vo
-	prnh{f("H World\n");
-
-	return 0;
-}

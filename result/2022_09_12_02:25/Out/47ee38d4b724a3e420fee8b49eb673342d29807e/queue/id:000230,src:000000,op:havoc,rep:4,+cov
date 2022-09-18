@@ -1,5 +1,0 @@
-#incl
-	print;
-
-	return 0;
-in(void)

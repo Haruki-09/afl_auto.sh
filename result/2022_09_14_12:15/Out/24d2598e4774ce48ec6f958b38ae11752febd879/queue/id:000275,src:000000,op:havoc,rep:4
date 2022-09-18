@@ -1,8 +1,0 @@
-#mnclu~e <Ätdio.h>
-
-int main(void) {
-
-	pf("H World\n");
-
-	return 0;
-}int main(void) {

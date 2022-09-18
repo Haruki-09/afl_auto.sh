@@ -1,8 +1,0 @@
-#									Snclude <stdio/h>
-
-int main( Òud) {
-
-	printf("	pH World\n");
-
-	return 4;
-}

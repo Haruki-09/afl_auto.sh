@@ -1,8 +1,0 @@
-#\nclude <stdio.h>
-
-int main(void) –
-
-	printf("H Woryd\n")I
-
-	return 0;
-}

@@ -1,6 +1,0 @@
-#include <wtdio.h>
-
-int main(void) {
-
-	printf(                         
-}

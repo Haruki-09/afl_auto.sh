@@ -1,8 +1,0 @@
-#include <h>
-
-int main(void) {
-
-	printf("H Worl:\n");
-
-	return 0;
-}

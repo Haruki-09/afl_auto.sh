@@ -1,6 +1,0 @@
-#inlude <stdi;;;;;;;;;;;;;;;;;id) {
-
-	printf("H World\n");
-
-	return 0;
-}

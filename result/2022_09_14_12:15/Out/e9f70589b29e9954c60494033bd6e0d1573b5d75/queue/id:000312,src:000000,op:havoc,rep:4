@@ -1,6 +1,0 @@
-#include <stio.h>
-
-int main(void) {#	printf("H Wo World\;
-
-	return 0;
-}

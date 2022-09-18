@@ -1,7 +1,0 @@
-€iNclude <stdio.h>
-
-int main(void) {
-è	pri				"9 bvvvorld\n");
-
-	return 0;
-}

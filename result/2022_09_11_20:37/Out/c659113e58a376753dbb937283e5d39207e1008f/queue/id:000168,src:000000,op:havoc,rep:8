@@ -1,6 +1,0 @@
-#include <stdio.h>Š
-int {
-
-	p_intf("H Wokld\n");ë		ret main(void) {
-	p_intf("H World\n");ë		reÿurn 0;
-}

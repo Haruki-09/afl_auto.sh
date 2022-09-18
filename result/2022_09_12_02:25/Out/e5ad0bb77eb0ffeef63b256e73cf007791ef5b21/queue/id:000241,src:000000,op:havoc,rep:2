@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(voie) {
-
-	printf(       d\n");
-
-	return 0;
-}

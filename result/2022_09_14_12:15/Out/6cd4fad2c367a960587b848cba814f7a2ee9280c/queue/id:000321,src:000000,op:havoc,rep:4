@@ -1,7 +1,0 @@
-#include <s'''ÿÿÿÿ''''tdio.h>
-
-int mai''''''n(void) {Õ
-	printf("H World\n");
-
-	return 0;
-}

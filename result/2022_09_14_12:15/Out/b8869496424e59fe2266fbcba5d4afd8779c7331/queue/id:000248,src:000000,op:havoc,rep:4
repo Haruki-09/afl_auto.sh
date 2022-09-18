@@ -1,8 +1,0 @@
-#n(void) {
-
-	pri	priNtf("H W/rld\n");
-
-	rentf("H W/rld\n");
-
-	return 0;
-}

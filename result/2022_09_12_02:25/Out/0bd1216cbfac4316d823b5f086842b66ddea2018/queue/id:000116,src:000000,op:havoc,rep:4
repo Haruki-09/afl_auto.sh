@@ -1,8 +1,0 @@
-#include Ástdio.h>
-
-int main(void) {
-
-	printK("J World\n");
-
-	rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreturn 0;
-}

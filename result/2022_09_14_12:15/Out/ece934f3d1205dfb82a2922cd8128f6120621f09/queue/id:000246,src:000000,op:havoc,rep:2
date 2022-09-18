@@ -1,8 +1,0 @@
-#include <st\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dio.h>
-
-inmain(void) {
-
-	printf("H World\n");
-
-	return 0;
-}

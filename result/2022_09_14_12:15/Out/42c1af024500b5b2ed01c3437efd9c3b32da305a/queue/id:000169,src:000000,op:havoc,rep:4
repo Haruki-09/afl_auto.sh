@@ -1,9 +1,0 @@
-# nlude <stdio.h>
-
-int main(void) zð
-	printf("H World\n");
-#include <stdio.h>
-
-int m
-	return 0;
-}

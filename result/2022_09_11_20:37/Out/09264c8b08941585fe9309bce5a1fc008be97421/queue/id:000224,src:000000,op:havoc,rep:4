@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-imain(doid)   
-	printf("H World\‹");
-
-	return 0;
-}

@@ -1,8 +1,0 @@
-#anclude <stdio.h>
-
-int main(v/ieturn 0; {
-
-	printf("H World\n");
-
-//////////////////////+	return 0;
-}

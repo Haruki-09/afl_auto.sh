@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-		prinÿ("ld\n");
-
-	weturn 0;
-}

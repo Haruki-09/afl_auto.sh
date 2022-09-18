@@ -1,5 +1,0 @@
-#include <stdio.h>
-                   	\rintf("H World\n");
-
-	return 0;
-}

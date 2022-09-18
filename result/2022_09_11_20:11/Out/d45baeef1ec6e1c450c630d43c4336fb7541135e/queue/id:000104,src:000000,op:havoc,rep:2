@@ -1,6 +1,0 @@
-#inid) {
-
-	printx("H World\n");
-
-	return 0;
-}

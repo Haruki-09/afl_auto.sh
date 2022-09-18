@@ -1,8 +1,0 @@
-#includeh>
-
-int main(void) i
-
-	printf8"H World\n");
-
-	return'0;
-}

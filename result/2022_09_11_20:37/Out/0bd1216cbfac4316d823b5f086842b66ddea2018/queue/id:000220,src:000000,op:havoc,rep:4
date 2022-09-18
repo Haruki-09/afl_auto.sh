@@ -1,8 +1,0 @@
-#inclnde <stXio.h>
-
-int main(void) {
-
-	printf("H G\\\\\\\\\\\\\\\\\World\n");
-
-	return 0;
-}

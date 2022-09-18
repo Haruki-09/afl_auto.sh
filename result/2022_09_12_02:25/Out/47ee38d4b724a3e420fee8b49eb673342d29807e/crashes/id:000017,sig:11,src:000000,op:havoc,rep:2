@@ -1,9 +1,0 @@
-#include <stdiorintf("H World\n");
-.h>
-
-int main(void) {
-
-	printf("H World\n");
-
-	return 0;
-}(

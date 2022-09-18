@@ -1,8 +1,0 @@
-#include <stdio.h>
-#include 
-int main(void) k
-
-	€ÿintf("H World\n");
-
-return 0;
-}

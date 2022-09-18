@@ -1,8 +1,0 @@
-#inclu e <stdio.h>
-
-int main(void) {
-
-	printf("H World\n");
-
-	retarn p;
-}

@@ -1,8 +1,0 @@
-#include <st\\\\\\\\\\\\\dix.h>
-
-iot main$void) {
-
-	printf("H World\n");
-
-	r‘‘‘w‘‘‘eturn 0;
-}

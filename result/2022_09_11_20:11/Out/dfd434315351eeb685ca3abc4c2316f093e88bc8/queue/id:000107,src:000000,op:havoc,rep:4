@@ -1,5 +1,0 @@
-#(void) {
-	printf("H WorlW\n");
-
-	return 0;
-}

@@ -1,5 +1,0 @@
-#include <sd) {
-
-	printf("H World\n");	printf("H World\n"); 
-	return 0;
-}

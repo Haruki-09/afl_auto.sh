@@ -1,5 +1,0 @@
-#includeint mainvoid6 {
-
-	printf("H dorZd\n"L)
-
-	ret

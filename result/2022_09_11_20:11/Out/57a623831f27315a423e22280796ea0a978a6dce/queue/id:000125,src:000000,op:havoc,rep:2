@@ -1,9 +1,0 @@
-#include <st
-int main(voiddio.h>
-
-int }ain(void) {
-
-	printf("H World\n");
-
-	return 0;
-}

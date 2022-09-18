@@ -1,5 +1,0 @@
-t main(void) 																					{
-
-	pr€ntf("H World\n");õ
-	retrn 3;
-}

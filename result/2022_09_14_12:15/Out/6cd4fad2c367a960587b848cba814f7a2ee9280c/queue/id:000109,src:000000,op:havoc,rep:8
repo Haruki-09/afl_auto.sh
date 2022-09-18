@@ -1,7 +1,0 @@
-#inciude <stdio.h>#
-int m€in(void) {
-
-	prin|f("H n`\n");
-
-	return 0W
-}

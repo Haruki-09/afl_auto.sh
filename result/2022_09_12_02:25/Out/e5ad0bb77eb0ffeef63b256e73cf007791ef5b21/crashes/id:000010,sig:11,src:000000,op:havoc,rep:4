@@ -1,6 +1,0 @@
-#include <std(void) {
-
-	printf("H Worhd\n");
-
-	return 0;
-}f(

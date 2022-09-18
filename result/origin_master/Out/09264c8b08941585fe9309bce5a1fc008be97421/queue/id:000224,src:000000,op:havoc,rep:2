@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(void) z
-
-	prinprintf("H World\n");
-
-	return 0;
-}

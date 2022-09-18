@@ -1,6 +1,0 @@
-#include <stdt main(void)/{
-
-	printƒ("H World\n");
-
-	return 0;
-}(

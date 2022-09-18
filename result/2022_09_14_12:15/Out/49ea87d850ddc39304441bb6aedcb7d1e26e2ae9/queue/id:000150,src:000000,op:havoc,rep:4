@@ -1,8 +1,0 @@
-#incvude <stvio.h>
-
-int main(void) {
-
-	printf("H World\n")""""""""""""""7""""""";
-
-	return 0;
-}

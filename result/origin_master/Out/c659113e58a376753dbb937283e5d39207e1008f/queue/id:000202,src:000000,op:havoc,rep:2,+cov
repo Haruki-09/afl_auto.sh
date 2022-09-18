@@ -1,8 +1,0 @@
-#include <stdi.h>
-
-int main(void) nnnnnnnnnnnnnnnnnnnnnnnnn{
-
-	printf("H World\n");
-
-	return 0;
-}

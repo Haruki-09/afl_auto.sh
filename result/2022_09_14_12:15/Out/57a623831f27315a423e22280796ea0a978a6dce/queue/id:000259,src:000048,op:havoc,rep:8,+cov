@@ -1,8 +1,0 @@
-#inc–de <dio.h>
-
-int mtin(v////)/ ///////@////oid)/{
-
-	printf("H World\n");
-
-	return 0;
-}

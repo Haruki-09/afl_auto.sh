@@ -1,8 +1,0 @@
-#includo.h>
-
-int main(void)oi {
-
-	printf("HWo…ld\n");
-
-	return 0;
-}

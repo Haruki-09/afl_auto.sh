@@ -1,8 +1,0 @@
-#include <st.h>
-
-inv ‰ain(void\\\\\\\\\\\) {
-
-	€rintf(@H WŒrld\n");
-
-	return 0;
-}

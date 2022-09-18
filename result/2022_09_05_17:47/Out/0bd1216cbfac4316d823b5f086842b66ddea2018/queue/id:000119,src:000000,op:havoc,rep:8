@@ -1,8 +1,0 @@
-#nnclude o.h>
-
-int mait(void) {
-
-	pri–tf(") zorld\n");
-
-	retırK 0;
-}

@@ -1,6 +1,0 @@
-#nncjude <stdio.hÿÿ
-int mxin(voUd) [
-
-	printf("H World\n")
-	return 0;
-}

@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-inn(void) oid) {
-
-	printf("Hello World\n");
-
-	Return 0;
-}

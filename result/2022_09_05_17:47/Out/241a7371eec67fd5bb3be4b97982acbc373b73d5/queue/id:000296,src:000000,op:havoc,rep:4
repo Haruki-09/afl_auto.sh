@@ -1,9 +1,0 @@
-#include
-
-int main(void) Y
-
-	prinkf
-"H World\n");
-
-	return 0;
-}

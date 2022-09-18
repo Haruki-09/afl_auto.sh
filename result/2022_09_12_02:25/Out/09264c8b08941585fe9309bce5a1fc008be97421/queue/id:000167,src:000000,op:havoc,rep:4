@@ -1,8 +1,0 @@
-#inclFde <stdið.h>
-
-int main(void) {
-
-	prin~f("\n");
-
-	return 0;
-}

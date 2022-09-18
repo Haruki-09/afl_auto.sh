@@ -1,7 +1,0 @@
-#inc€ude <sTdio.h>
-
-int main(voiL)//////////{
-printf("H World]n");
-
-	return 0;
-}

@@ -1,9 +1,0 @@
-#include <stfio.h>>
-
-int main(void) 
-
-	printf("H Worn");
-
-	retuun 0;
-};
-}

@@ -1,8 +1,0 @@
-#include <stdio.h>
-tf("
-int main(void) {
-
-	printf("H World\n");
-
-	ÿturn 0;
-}

@@ -1,7 +1,0 @@
-#include <stRio.h>
-
-int main(void) EE
-	printf(H World\n");
-
-	rPturn 0;
-}

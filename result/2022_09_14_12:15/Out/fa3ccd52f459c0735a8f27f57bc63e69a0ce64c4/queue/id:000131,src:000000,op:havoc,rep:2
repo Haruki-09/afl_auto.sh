@@ -1,8 +1,0 @@
-#
-
-int main(void) {
-
-	printfF"H World\n");
-
-	return 0;
-}
